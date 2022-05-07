@@ -1,0 +1,79 @@
+section {
+  height: 79vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0e0e0;
+}
+
+  #hero-container {
+      max-width: 50%;
+  }
+
+      #hero-container h1 {
+          line-height: 3vw;
+          font-weight: 700;
+          color: #c4c4c4;
+          letter-spacing: 5px;
+          cursor: context-menu;
+          text-transform: uppercase;
+          font-size: clamp(35px, 8vw, 200px);
+      }
+
+          #hero-container h2 {
+              font-size: clamp(20px, 5vw, 40px);
+          }
+
+              #hero-container h2 #wave {
+                  display: inline-block;
+                  animation-duration: 3.2s;
+                  transform-origin: 70% 80%;
+                  animation-name: wave-animation;
+                  animation-iteration-count: infinite;
+              }
+
+      #hero-container p {
+          color: #5A4D70;
+          font-size: 20px;
+          margin: 10px 0 0 0;
+          padding-right: 1rem;
+          cursor: context-menu;
+      }
+
+          #hero-container p span {
+              font-weight: 600;
+              color: #000000;
+              font-size: 1.2rem;
+          }
+
+          #hero-container p span a {
+              color: #ff0000;
+              text-decoration: none;
+          }
+
+          #hero-container p i {
+              font-weight: 600;
+              color: #3ea3ca;
+          }
+
+@media (max-width: 910px) {
+
+  #hero-container h2 #wave {
+      z-index: 2;
+  }
+
+}
+
+/*
+  Wave Emoji Wave Animation
+*/
+@keyframes wave-animation{
+  0% { transform: rotate( 0.0deg) }
+  10% { transform: rotate(14.0deg) }
+  20% { transform: rotate(-8.0deg) }
+  30% { transform: rotate(14.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(10.0deg) }
+  60% { transform: rotate( 0.0deg) }
+  100% { transform: rotate( 0.0deg) }
+}
