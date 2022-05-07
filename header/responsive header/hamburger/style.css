@@ -1,0 +1,70 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #272727;
+}
+
+    .menu-btn {
+        width: 80px;
+        height: 80px;
+        display: flex;
+        cursor: pointer;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        border: 3px solid #fff; /* Remove if you don't want a box border */
+        transition: all .5s ease-in-out;
+    }
+
+        .menu-btn-burger {
+            width: 50px;
+            height: 6px;
+            border-radius: 5px;
+            background-color: #fff;
+            transition: all .5s ease-in-out;
+            box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+        }
+
+        .menu-btn-burger::before,
+        .menu-btn-burger::after {
+            content: '';
+            width: 50px;
+            height: 6px;
+            border-radius: 5px;
+            position: absolute;
+            background-color: #fff;
+            transition: all .5s ease-in-out;
+            box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+        }
+
+        .menu-btn-burger::before {
+            transform: translateY(-16px);
+        }
+
+        .menu-btn-burger::after {
+            transform: translateY(16px);
+        }
+
+        /* Animation */
+        .menu-btn.open .menu-btn-burger {
+            box-shadow: none;
+            background: transparent;
+        }
+
+        .menu-btn.open .menu-btn-burger::before {
+            transform: rotate(45deg);
+        }
+
+        .menu-btn.open .menu-btn-burger::after {
+            transform: rotate(-45deg);
+        }

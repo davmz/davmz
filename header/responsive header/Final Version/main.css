@@ -1,0 +1,225 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #272727;
+    font-family: "Poppins", sans-serif;
+}
+
+    header {
+
+    }
+
+        #header-container {
+            background-color: #1b1b1b;
+        }
+
+            nav{
+                width: 100%;
+                display: flex;
+                height: 100px;
+                flex-wrap: wrap;
+                color: #ffffff;
+                align-items: center;
+                padding: 1.13vh 11.7vw;
+                justify-content: space-between;
+            }
+
+                #logo{
+                    color: #fff;
+                    font-weight: 600;
+                    font-size: 1.5rem;
+                    letter-spacing: 0.4rem;
+                    text-shadow: 1px 5px 5px #000000;
+                }
+
+                #logo h1 {
+
+                }
+
+                    #logo h1 a {
+                        color: #f5f5f5f8;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                    }
+
+                /* Navigation Menu */
+                nav ul {
+                    display: flex;
+                    flex-wrap: wrap;
+                    list-style: none;
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                    nav ul li {
+                        margin: 0 5px;
+                        list-style: none;
+                    }
+
+                        nav ul li a {
+                            font-size: 18px;
+                            font-weight: 500;
+                            color: #f2f2f2;
+                            padding: 8px 15px;
+                            border-radius: 5px;
+                            letter-spacing: 1px;
+                            text-decoration: none;
+                            transition: all 0.3s ease;
+                            text-shadow: 1px 4px 4px #000000;
+                        }
+
+                        nav ul li #active:hover {
+                            text-shadow: 1px 4px 4px #000000;
+                            background-color: rgb(145, 224, 255) !important;
+                        }
+
+                        nav ul li a:hover {
+                            color: #111;
+                            text-shadow: none !important;
+                            background-color: #fff;
+                        }
+
+                        input[type="checkbox"]{
+                            display: none;
+                        }
+
+                        /* Burger Menu */  
+                        nav .menu-btn .menu-btn-burger{
+                            color: #fff;
+                            display: none;
+                            font-size: 22px;
+                            cursor: pointer;
+                        }
+                        
+                        .menu-btn-burger {
+                            width: 20px;
+                            height: 2px;
+                            border-radius: 5px;
+                            background-color: #fff;
+                            transition: all .5s ease-in-out;
+                            box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+                        }
+                
+                        .menu-btn-burger::before,
+                        .menu-btn-burger::after {
+                            content: '';
+                            width: 20px;
+                            height: 2px;
+                            border-radius: 5px;
+                            position: absolute;
+                            background-color: #fff;
+                            transition: all .5s ease-in-out;
+                            box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+                        }
+                
+                        .menu-btn-burger::before {
+                            transform: translateY(-7px);
+                        }
+                
+                        .menu-btn-burger::after {
+                            transform: translateY(7px);
+                        }
+                
+                        /* Burger Menu Animation */
+                        .menu-btn.open .menu-btn-burger {
+                            box-shadow: none;
+                            background: transparent;
+                        }
+                
+                        .menu-btn.open .menu-btn-burger::before {
+                            transform: rotate(45deg);
+                        }
+                
+                        .menu-btn.open .menu-btn-burger::after {
+                            transform: rotate(-45deg);
+                        }
+
+
+
+@media (max-width: 1000px){
+
+    nav{
+        padding: 0 40px 0 50px;
+    }
+
+}
+
+@media (max-width: 910px) {
+
+    nav .menu-btn .menu-btn-burger{
+        display: block;
+    }
+
+
+    #click:checked ~ .menu-btn i:before{
+        content: "\f00d";
+    }
+
+    nav ul{
+        top: 100px;
+        left: -100%;
+        width: 100%;
+        height: 100vh;
+        display: block;
+        position: fixed;
+        background: #111;
+        text-align: center;
+        transition: all 0.3s ease;
+        /* background-color: pink; */
+        padding: 5vh 2vw;
+    }
+
+    #click:checked ~ ul{
+        left: 0;
+    }
+
+    nav ul li{
+        /* background-color: red; */
+        padding: 5px;
+        margin: 40px 0;
+    }
+
+    nav ul li a{
+        /* background-color: orange; */
+        display: block;
+        font-size: 20px;
+        margin-left: -100%;
+        transition: 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    }
+
+    #click:checked ~ ul li a{
+        margin-left: 0px;
+    }
+
+    nav ul li a:hover{
+        color: cyan;
+        background-color: transparent;
+    }
+
+    nav ul li #active:hover {
+        color: cyan;
+        background-color: transparent !important;
+    }
+
+}
+
+/* Mobile View */
+@media screen and (max-width: 320px) {
+
+    nav {
+        padding: 0 30px;
+    }
+
+        #logo {
+            font-size: 0.9rem;
+        }
+
+
+
+}

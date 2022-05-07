@@ -1,0 +1,220 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #272727;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    
+}
+
+    #header-container {
+        background-color: #1c5bd18c;
+    }
+
+        nav {
+            height: 97px;
+            padding: 24px;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            padding: 1.13vh 11.7vw;
+            justify-content: space-between;
+        }
+
+            /* Logo */
+            #logo {
+                font-size: 1.5rem;
+                letter-spacing: 0.4rem;
+                text-shadow: 1px 5px 5px #000000;
+            }
+
+                #logo h1 {
+
+                }
+
+                    #logo h1 a {
+                        color: #f5f5f5f8;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                    }
+
+            /* Navigation Menu */
+            #nav-menu {
+
+            }
+
+                #nav-menu ul {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                    #nav-menu ul li {
+                        padding: 0 10px;
+                        list-style: none;
+                    }
+
+                        #nav-menu ul li a {
+                            display: block;
+                            padding: 0 10px;
+                            font-weight: 600;
+                            color: #d6d6d6;
+                            font-size: 18px;
+                            position: relative;
+                            text-decoration: none;
+                            text-shadow: 1px 2px 4px #000000;
+                        }
+
+                        #nav-menu ul li a::after {
+                            left: 0;
+                            width: 0;
+                            content: "";
+                            height: 3px;
+                            bottom: -7px;
+                            transition: 0.3s;
+                            position: absolute;
+                            border-radius: 5px;
+                            background-color: #ffffff;
+                        }
+
+                        #nav-menu ul li a:hover:after {
+                            width: 100%;
+                            box-shadow: 1px 1px 2px #ffffff;
+                        }
+
+                        #nav-menu ul li a:hover {
+                            color: #fff;
+                        }
+
+                        /* Burger Menu */
+                        .menu-btn {
+                            width: 40px;
+                            height: 40px;
+                            display: none;
+                            cursor: pointer;
+                            position: relative;
+                            align-items: center;
+                            justify-content: center;
+                            /* border: 3px solid #fff; Remove if you don't want a box border */
+                            transition: all .5s ease-in-out;
+                        }
+                    
+                            .menu-btn-burger {
+                                width: 20px;
+                                height: 2px;
+                                border-radius: 5px;
+                                background-color: #fff;
+                                transition: all .5s ease-in-out;
+                                box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+                            }
+                    
+                            .menu-btn-burger::before,
+                            .menu-btn-burger::after {
+                                content: '';
+                                width: 20px;
+                                height: 2px;
+                                border-radius: 5px;
+                                position: absolute;
+                                background-color: #fff;
+                                transition: all .5s ease-in-out;
+                                box-shadow: 0 2px 5px rgba(47, 172, 255, 0.2);
+                            }
+                    
+                            .menu-btn-burger::before {
+                                transform: translateY(-7px);
+                            }
+                    
+                            .menu-btn-burger::after {
+                                transform: translateY(7px);
+                            }
+                    
+                            /* Burger Menu Animation */
+                            .menu-btn.open .menu-btn-burger {
+                                box-shadow: none;
+                                background: transparent;
+                            }
+                    
+                            .menu-btn.open .menu-btn-burger::before {
+                                transform: rotate(45deg);
+                            }
+                    
+                            .menu-btn.open .menu-btn-burger::after {
+                                transform: rotate(-45deg);
+                            }
+
+
+@media screen and (max-width: 920px) {
+
+    nav {
+        justify-content: space-evenly;
+    }
+
+    #nav-menu {
+        /* display: none; */
+    }
+
+        #nav-menu ul {
+            /* left: -100%; */
+            left: 0%;
+            top: 12.8vh;
+            width: 100%;
+            height: 100vh;
+            display: block;
+            position: fixed;
+            text-align: center;
+            background-color: #111;
+        }
+
+            #nav-menu ul li a::after {
+                display: block;
+                left: 0;
+                width: 0;
+                content: "";
+                height: 3px;
+                bottom: -7px;
+                transition: 0.3s;
+                position: absolute;
+                border-radius: 5px;
+                background-color: #ffffff;
+            }
+
+            #nav-menu ul li a:hover:after {
+                width: 100%;
+                box-shadow: 1px 1px 2px #ffffff;
+            }
+
+            #nav-menu ul li a:hover {
+                color: #fff;
+            }
+
+            #nav-menu ul li {
+                margin: 40px 0;
+            }
+
+                #nav-menu ul li a {
+                    font-size: 25px;
+                }
+
+    .menu-btn {
+        display: flex;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    #logo {
+        font-size: 0.9rem;
+    }
+
+
+
+}
