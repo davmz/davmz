@@ -1,16 +1,28 @@
-## Hi there 👋
+```
+ ____              _     _   __  __             _         /\/|          
+|  _ \  __ ___   _(_) __| | |  \/  | ___  _ __ | |_ __ _ |/\/   ___ ____
+| | | |/ _` \ \ / / |/ _` | | |\/| |/ _ \| '_ \| __/ _` | '_ \ / _ \_  /
+| |_| | (_| |\ V /| | (_| | | |  | | (_) | | | | || (_| | | | |  __// / 
+|____/ \__,_| \_/ |_|\__,_| |_|  |_|\___/|_| |_|\__\__,_|_| |_|\___/___|
+```
 
-<!--
-**davmz/davmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Howdy, I'm David! ✌
 
-Here are some ideas to get you started:
+Hello! I'm excited to share my projects and contributions with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+A brief description about who you are, your interests, and what you do.
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Now Playing 🎧
+
+*Wil include a now playing feature here with my Spotify account*
+
+### Visitor Count
+
+*Include a visitor count that updates in-real time*
