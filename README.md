@@ -24,7 +24,13 @@ List out icons and tools.
 
 ## GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro)
+![David's GitHub Stats](https://github-readme-stats-davmz.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro)
+
+![David's Top Languages](https://github-readme-stats-davmz.vercel.app/api/top-langs/?username=Davmz&theme=one_dark_pro&show_icons=true&hide_border=false&layout=compact)
+
+![David's Streak](https://streak-stats.demolab.com?user=davmz&theme=tokyonight&hide_border=false) <!-- Will look into if theres a way to host this myself instead of using their service to avoid it going down -->
+
+*GitHub Contributions Snake Game Insert Here*
 
 ### Now Playing 🎧
 
