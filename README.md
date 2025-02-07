@@ -24,7 +24,7 @@ List out icons and tools.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Davmz&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro)
 
 ### Now Playing 🎧
 
@@ -33,3 +33,8 @@ List out icons and tools.
 ### Visitor Count
 
 *Include a visitor count that updates in-real time*
+
+
+### Daily Verse
+
+*Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
