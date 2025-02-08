@@ -51,5 +51,9 @@ List out icons and tools.
 
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-Fetching the latest verse...
+**📖 Titus 2:11-12 (ESV)**
+> For the grace of God has appeared, bringing salvation for all people training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age
+
 <!-- END: Verse of the Day -->
+
+*Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
