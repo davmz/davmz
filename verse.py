@@ -43,6 +43,4 @@ def update_readme(verse_reference, verse_text):
 
 if __name__ == "__main__":
     verse_reference, verse_text = fetch_verse_of_the_day()
-    print(verse_reference)
-    print(verse_text)
-    # update_readme(verse_reference, verse_text)
+    update_readme(verse_reference, verse_text)
