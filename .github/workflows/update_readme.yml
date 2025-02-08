@@ -38,3 +38,6 @@ jobs:
           git add README.md
           git commit -m "Updated Verse of the Day"
           git push
+        continue-on-error: true # Allows the workflow to continue even if the commit fails
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
