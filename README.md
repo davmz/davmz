@@ -45,4 +45,7 @@ List out icons and tools.
 Fetching the latest verse...
 <!-- END: Verse of the Day -->
 
-*Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
+### 🎨 Beyond Tech (Fun Facts)
+- 🏃‍♂️ Running (Ran first 10km at WFPS October 2024)
+- 🏂 Snowboarding
+- 🧗‍♀️ Bouldering
