@@ -40,7 +40,9 @@ List out icons and tools.
 
 *Include a visitor count that updates in-real time*
 
-
-### Daily Verse
+### 📖 Verse of the Day
+<!-- START: Verse of the Day -->
+Fetching the latest verse...
+<!-- END: Verse of the Day -->
 
 *Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
