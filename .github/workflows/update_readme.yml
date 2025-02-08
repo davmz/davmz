@@ -27,6 +27,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Updated Verse of the Day"
-          git push
+          
+          # Check if README.md was modified
+          git diff --quiet README.md || (git add README.md && git commit -m "Updated Verse of the Day" && git push)
+
