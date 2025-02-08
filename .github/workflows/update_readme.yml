@@ -27,17 +27,18 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Check for changes
+
+          # Check for changes in README.md
           if git diff --quiet README.md; then
             echo "No changes detected, skipping commit."
-            exit 0  # Exits successfully without an error
+            exit 0  # Gracefully exit without causing a failure
           fi
 
-          # Commit and push if changes exist
+          # If changes exist, commit and push
           git add README.md
           git commit -m "Updated Verse of the Day"
-          git push
-        continue-on-error: true # Allows the workflow to continue even if the commit fails
+          git push origin main || echo "Push failed, but not a critical error."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
