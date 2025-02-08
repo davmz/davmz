@@ -23,7 +23,7 @@ jobs:
       - name: Fetch and Update Verse of the Day
         run: python verse.py
 
-      - name: Debug: Check README before and after update
+      - name: Debug Check README before and after update
         run: |
           echo "Before running verse.py:"
           cat README.md
