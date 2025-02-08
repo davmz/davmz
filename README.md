@@ -5,6 +5,7 @@
 | |_| | (_| |\ V /| | (_| | | |  | | (_) | | | | || (_| | | | |  __// / 
 |____/ \__,_| \_/ |_|\__,_| |_|  |_|\___/|_| |_|\__\__,_|_| |_|\___/___|
 ```
+*visitor count*
 
 # Howdy, I'm David! ✌
 
@@ -13,6 +14,18 @@
 Currently an **Associate Consultant at Optimiz and a 2022 Red River College Business Information Technology graduate**, I have a strong passion for becoming a **full-stack/software developer**, continuously expanding my skill set. Lately, I’ve been exploring *UI/UX design* as an asset to building well-crafted, user-centered applications.
 
 However, I found myself getting **too comfortable, with my priorities out of balance—neglecting personal development outside of work**. Now, I’m actively working on breaking that cycle, reigniting my passion, and becoming more involved in side projects and continuous learning. ***My goal is to refocus, grow, and push forward in both development and digital creativity.***
+
+### 🎨 Beyond Tech (Fun Facts)
+- 🏃‍♂️ Running (Ran first 10km at WFPS October 2024)
+- 🏂 Snowboarding (Only snowboarded once on January 2025)
+- 🧗‍♀️ Bouldering (3 times)
+- 🎥 Photography, Videography & Cinematography (Started 2024) follow me @dav.mz.photography on Instagram
+- 🎸🐟 Guitar & Bass Player (Self taught)
+- 🚶‍♂️ Hiking and Exploring Nature
+
+### Connect
+
+Social Media and links
 
 ### Tech Stack
 
@@ -36,16 +49,7 @@ List out icons and tools.
 
 *Wil include a now playing feature here with my Spotify account*
 
-### Visitor Count
-
-*Include a visitor count that updates in-real time*
-
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
 Fetching the latest verse...
 <!-- END: Verse of the Day -->
-
-### 🎨 Beyond Tech (Fun Facts)
-- 🏃‍♂️ Running (Ran first 10km at WFPS October 2024)
-- 🏂 Snowboarding
-- 🧗‍♀️ Bouldering
