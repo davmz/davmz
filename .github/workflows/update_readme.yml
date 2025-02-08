@@ -23,12 +23,18 @@ jobs:
       - name: Fetch and Update Verse of the Day
         run: python verse.py
 
-      - name: Commit and push changes
+      - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check for changes
+          if git diff --quiet README.md; then
+            echo "No changes detected, skipping commit."
+            exit 0  # Exits successfully without an error
+          fi
+
+          # Commit and push if changes exist
           git add README.md
-          git commit -m "Update Verse of the Day"
+          git commit -m "Updated Verse of the Day"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
