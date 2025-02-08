@@ -23,22 +23,28 @@ jobs:
       - name: Fetch and Update Verse of the Day
         run: python verse.py
 
+      - name: Debug: Check README before and after update
+        run: |
+          echo "Before running verse.py:"
+          cat README.md
+          python verse.py
+          echo "After running verse.py:"
+          cat README.md
+
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Check for changes in README.md
+          # Check for changes
           if git diff --quiet README.md; then
             echo "No changes detected, skipping commit."
-            exit 0  # Gracefully exit without causing a failure
+            exit 0  # Gracefully exit without error
           fi
 
-          # If changes exist, commit and push
+          # If changes exist, commit and force push
           git add README.md
           git commit -m "Updated Verse of the Day"
-          git push origin main || echo "Push failed, but not a critical error."
+          git push origin main --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
-
