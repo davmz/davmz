@@ -12,7 +12,7 @@ def fetch_verse_of_the_day():
     verse_text_tag = soup.find("a", href=lambda x: x and "/bible/compare/" in x)
 
     # Find the <p> inside an <a> tag with href containing "/bible/59/" (Verse Reference)
-    verse_reference_tag = soup.find("a", href=lambda x: x and "/bible/59/" in x).find("p")
+    verse_reference_tag = soup.find("a", href=lambda x: x and "/bible/" in x).find("p")
 
     if verse_text_tag and verse_reference_tag:
         verse_text = verse_text_tag.get_text(strip=True)
