@@ -51,8 +51,10 @@ List out icons and tools.
 
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Titus 2:11-12 (ESV)**
-> For the grace of God has appeared, bringing salvation for all people training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age
+**📖 Isaiah 26:3 (NIV)**
+> You will keep in perfect peace
+those whose minds are steadfast,
+because they trust in you.
 
 <!-- END: Verse of the Day -->
 
