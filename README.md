@@ -45,7 +45,11 @@ List out icons and tools.
 
 ![David's Streak](https://streak-stats.demolab.com?user=davmz&theme=tokyonight&hide_border=false) <!-- Will look into if theres a way to host this myself instead of using their service to avoid it going down -->
 
-*GitHub Contributions Snake Game Insert Here*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davmz/davmz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davmz/davmz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/davmz/davmz/output/github-snake.svg" />
+</picture>
 
 ### Now Playing 🎧
 
