@@ -5,7 +5,7 @@
 | |_| | (_| |\ V /| | (_| | | |  | | (_) | | | | || (_| | | | |  __// / 
 |____/ \__,_| \_/ |_|\__,_| |_|  |_|\___/|_| |_|\__\__,_|_| |_|\___/___|
 ```
-*visitor count*
+![Profile views](https://komarev.com/ghpvc/?username=davmz&label=Profile%20views&color=569cd6&style=flat)
 
 # Howdy, I'm David! ✌
 
@@ -25,25 +25,26 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 - 🎸🐟 Guitar & Bass Player (Self taught)
 - 🚶‍♂️ Hiking and Exploring Nature
 
-### Connect
-
-Social Media and links
-
-### Tech Stack
+### Tech Stack ⚙
 
 List out tech stack and icons
 
-### Tools
+### Tools 🛠
 
 List out icons and tools.
 
-## GitHub Stats
+### Connect 
 
-![David's GitHub Stats](https://github-readme-stats-davmz.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro)
+LinkedIn | YouTube | Discord | 
 
-![David's Top Languages](https://github-readme-stats-davmz.vercel.app/api/top-langs/?username=Davmz&theme=one_dark_pro&show_icons=true&hide_border=false&layout=compact)
+## GitHub Stats 📚
 
-![David's Streak](https://streak-stats.demolab.com?user=davmz&theme=tokyonight&hide_border=false) <!-- Will look into if theres a way to host this myself instead of using their service to avoid it going down -->
+<div>
+    <p align="center">
+        <img src="https://github-readme-stats-davmz.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro" alt="davmz GitHub Stats" height="165">
+        <img src="https://streak-stats.demolab.com?user=davmz&theme=tokyonight&hide_border=false" alt="davmz streak and contributions" height="165">
+    </p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davmz/davmz/output/github-snake-dark.svg" />
@@ -51,13 +52,14 @@ List out icons and tools.
   <img alt="github-snake" src="https://raw.githubusercontent.com/davmz/davmz/output/github-snake.svg" />
 </picture>
 
-### Now Playing 🎧
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=davmz&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
+
+## Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ndk_noob?si=4dc4bc4cb11e41d5)
 
-*Wil include a now playing feature here with my Spotify account*
-
-### 📖 Verse of the Day
+# 📖 Verse of the Day
 <!-- START: Verse of the Day -->
 **📖 John 5:24 (NIV)**
 > “Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
