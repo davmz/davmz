@@ -51,10 +51,8 @@ List out icons and tools.
 
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 26:3 (NIV)**
-> You will keep in perfect peace
-those whose minds are steadfast,
-because they trust in you.
+**📖 John 5:24 (NIV)**
+> “Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
 
 <!-- END: Verse of the Day -->
 
