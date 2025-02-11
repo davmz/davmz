@@ -171,6 +171,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
         <img src="https://github-readme-stats-davmz.vercel.app/api?username=Davmz&show_icons=true&theme=one_dark_pro" alt="davmz GitHub Stats" height="165">
         <img src="https://streak-stats.demolab.com?user=davmz&theme=tokyonight&hide_border=false" alt="davmz streak and contributions" height="165">
     </p>
+
+   <p align="center">
+     our goal is to lock in, build and have fun (:;
+   </p>
 </div>
 
 <picture>
