@@ -11,9 +11,11 @@
 
 **`Creadevographer Craftsman (Developer / Photographer / Videographer / Cinematographer)`**
 
-Currently an **Associate Consultant at Optimiz and a 2022 Red River College Business Information Technology graduate**, I have a strong passion for becoming a **full-stack/software developer**, continuously expanding my skill set. Lately, I’ve been exploring *UI/UX design* as an asset to building well-crafted, user-centered applications.
+Associate Consultant at Optimiz | Business Information Technology Graduate (2022)  
 
-However, I found myself getting **too comfortable, with my priorities out of balance—neglecting personal development outside of work**. Now, I’m actively working on breaking that cycle, reigniting my passion, and becoming more involved in side projects and continuous learning. ***My goal is to refocus, grow, and push forward in both development and digital creativity.***
+Aspiring **Full-Stack/Software Developer**, passionate about building **user-centered applications**. Lately, I've been exploring **UI/UX design** to enhance my development work.  
+
+Currently refocusing on **side projects, continuous learning, and growth**—breaking out of my comfort zone and reigniting my passion for development and digital creativity. 🚀
 
 ### 🎨 Beyond Tech (Fun Facts)
 - 🏃‍♂️ Running (Ran first 10km at WFPS October 2024)
@@ -47,13 +49,12 @@ List out icons and tools.
 
 ### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ndk_noob?si=4dc4bc4cb11e41d5)
+
 *Wil include a now playing feature here with my Spotify account*
 
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
 **📖 Titus 2:11-12 (ESV)**
 > For the grace of God has appeared, bringing salvation for all people training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age
-
 <!-- END: Verse of the Day -->
-
-*Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
