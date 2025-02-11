@@ -24,23 +24,23 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 - 🏂 Snowboarding (Only snowboarded once on January 2025)
 - 🧗‍♀️ Bouldering (3 times)
 - 🎥 Photography, Videography & Cinematography (Started 2024) follow me @dav.mz.photography on Instagram
-- 🎸🐟 Guitar & Bass Player (Self taught)
+- 🎸🐟 Guitar & Bass Player (Self-taught)
 - 🚶‍♂️ Hiking and Exploring Nature
 
 <div id="badges" align="center">
-    <a href="mailto:montanezdavid@gmail.com">
+    <a href="mailto:montanezdavid@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-montanezdavid@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/davmz/">
+    <a href="https://www.linkedin.com/in/davmz/" target="_blank">
         <img src="https://img.shields.io/badge/-davmz-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/dav.mz.photography/">
+    <a href="https://www.instagram.com/dav.mz.photography/" target="_blank">
         <img src="https://img.shields.io/badge/-davmz-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://www.instagram.com/dav.mz.photography/">
+    <a href="https://www.instagram.com/dav.mz.photography/" target="_blank">
         <img src="https://img.shields.io/badge/-dav.mz.photography-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-        <a href="https://www.youtube.com/@davmz">
+        <a href="https://www.youtube.com/@davmz" target="_blank">
         <img src="https://img.shields.io/badge/-davmz-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
 </div>
