@@ -55,15 +55,6 @@ List out icons and tools.
 
 ### 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-<<<<<<< HEAD
-**📖 Titus 2:11-12 (ESV)**
-> For the grace of God has appeared, bringing salvation for all people training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age
-<!-- END: Verse of the Day -->
-=======
 **📖 John 5:24 (NIV)**
 > “Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
-
 <!-- END: Verse of the Day -->
-
-*Hopefully integrate with YouVersion Bible app and have the daily verse here (:;*
->>>>>>> 1df89fa777d61042c07764a68159232495249c81
