@@ -188,6 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 5:24 (NIV)**
-> “Very truly I tell you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
+**📖 Luke 6:28 (NLT)**
+> Bless those who curse you. Pray for those who hurt you.
+
 <!-- END: Verse of the Day -->
