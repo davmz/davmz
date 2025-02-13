@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 6:28 (NLT)**
-> Bless those who curse you. Pray for those who hurt you.
+**📖 Hebrews 4:10 (ESV)**
+> for whoever has entered God’s rest has also rested from his works as God did from his.
 
 <!-- END: Verse of the Day -->
