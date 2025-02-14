@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 4:10 (ESV)**
-> for whoever has entered God’s rest has also rested from his works as God did from his.
+**📖 Proverbs 17:17 (NIV)**
+> A friend loves at all times,
+and a brother is born for a time of adversity.
 
 <!-- END: Verse of the Day -->
