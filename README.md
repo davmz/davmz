@@ -188,8 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 17:17 (NIV)**
-> A friend loves at all times,
-and a brother is born for a time of adversity.
+**📖 Zephaniah 3:17 (NLT)**
+> For the LORD your God is living among you.
+He is a mighty savior.
+He will take delight in you with gladness.
+With his love, he will calm all your fears.
+He will rejoice over you with joyful songs.”
 
 <!-- END: Verse of the Day -->
