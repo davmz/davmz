@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Zephaniah 3:17 (NLT)**
-> For the LORD your God is living among you.
-He is a mighty savior.
-He will take delight in you with gladness.
-With his love, he will calm all your fears.
-He will rejoice over you with joyful songs.”
+**📖 Mark 16:15 (NIV)**
+> He said to them, “Go into all the world and preach the gospel to all creation.
 
 <!-- END: Verse of the Day -->
