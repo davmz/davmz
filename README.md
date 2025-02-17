@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 16:15 (NIV)**
-> He said to them, “Go into all the world and preach the gospel to all creation.
+**📖 3 John 1:11 (NIV)**
+> Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God.
 
 <!-- END: Verse of the Day -->
