@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 46:10 (NIV)**
-> He says, “Be still, and know that I am God;
-I will be exalted among the nations,
-I will be exalted in the earth.”
+**📖 John 16:33 (NLT)**
+> I have told you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcome the world.”
 
 <!-- END: Verse of the Day -->
