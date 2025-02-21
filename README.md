@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 16:33 (NLT)**
-> I have told you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcome the world.”
+**📖 Philippians 4:7 (NIV)**
+> And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
 
 <!-- END: Verse of the Day -->
