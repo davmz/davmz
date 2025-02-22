@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:7 (NIV)**
-> And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
+**📖 Psalms 34:14 (NLT)**
+> Turn away from evil and do good.
+Search for peace, and work to maintain it.
 
 <!-- END: Verse of the Day -->
