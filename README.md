@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:14 (NLT)**
-> Turn away from evil and do good.
-Search for peace, and work to maintain it.
+**📖 John 14:27 (NLT)**
+> “I am leaving you with a gift—peace of mind and heart. And the peace I give is a gift the world cannot give. So don’t be troubled or afraid.
 
 <!-- END: Verse of the Day -->
