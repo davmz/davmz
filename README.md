@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 14:27 (NLT)**
-> “I am leaving you with a gift—peace of mind and heart. And the peace I give is a gift the world cannot give. So don’t be troubled or afraid.
+**📖 Galatians 5:14 (NIV)**
+> For the entire law is fulfilled in keeping this one command: “Love your neighbor as yourself.”
 
 <!-- END: Verse of the Day -->
