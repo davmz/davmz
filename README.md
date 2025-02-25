@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:14 (NIV)**
-> For the entire law is fulfilled in keeping this one command: “Love your neighbor as yourself.”
+**📖 Proverbs 19:17 (ESV)**
+> Whoever is generous to the poor lends to the LORD,
+and he will repay him for his deed.
 
 <!-- END: Verse of the Day -->
