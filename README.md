@@ -188,10 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 59:16 (ESV)**
-> But I will sing of your strength;
-I will sing aloud of your steadfast love in the morning.
-For you have been to me a fortress
-and a refuge in the day of my distress.
+**📖 Revelation 4:11 (NIV)**
+> “You are worthy, our Lord and God,
+to receive glory and honor and power,
+for you created all things,
+and by your will they were created
+and have their being.”
 
 <!-- END: Verse of the Day -->
