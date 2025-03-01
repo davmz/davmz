@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Revelation 7:9-10 (NIV)**
-> After this I looked, and there before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb. They were wearing white robes and were holding palm branches in their hands. And they cried out in a loud voice:
-“Salvation belongs to our God,
-who sits on the throne,
-and to the Lamb.”
+**📖 Matthew 28:19 (NIV)**
+> Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
 
 <!-- END: Verse of the Day -->
