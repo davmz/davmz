@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 28:19 (NIV)**
-> Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit
+**📖 Joshua 1:9 (ESV)**
+> Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go.”
 
 <!-- END: Verse of the Day -->
