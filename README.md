@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 13:8 (NIV)**
-> Jesus Christ is the same yesterday and today and forever.
+**📖 Romans 3:23-24 (NIV)**
+> for all have sinned and fall short of the glory of God and all are justified freely by his grace through the redemption that came by Christ Jesus.
 
 <!-- END: Verse of the Day -->
