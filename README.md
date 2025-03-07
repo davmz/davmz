@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:25 (NIV)**
-> Since we live by the Spirit, let us keep in step with the Spirit.
+**📖 Philippians 4:9 (ESV)**
+> What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
 
 <!-- END: Verse of the Day -->
