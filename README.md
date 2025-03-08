@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:9 (ESV)**
-> What you have learned and received and heard and seen in me—practice these things, and the God of peace will be with you.
+**📖 Unknown Reference**
+> Unknown Verse
 
 <!-- END: Verse of the Day -->
