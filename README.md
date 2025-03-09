@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Unknown Reference**
-> Unknown Verse
+**📖 Psalm 91:1-2 (ESV)**
+> He who dwells in the shelter of the Most High
+will abide in the shadow of the Almighty. I will say to the LORD, “My refuge and my fortress,
+my God, in whom I trust.”
 
 <!-- END: Verse of the Day -->
