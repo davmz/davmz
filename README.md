@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 1:29 (ESV)**
-> The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!
+**📖 Philippians 1:21 (NLT)**
+> For to me, living means living for Christ, and dying is even better.
 
 <!-- END: Verse of the Day -->
