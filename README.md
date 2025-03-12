@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 1:21 (NLT)**
-> For to me, living means living for Christ, and dying is even better.
+**📖 Jonah 1:17 (NLT)**
+> Now the LORD had arranged for a great fish to swallow Jonah. And Jonah was inside the fish for three days and three nights.
 
 <!-- END: Verse of the Day -->
