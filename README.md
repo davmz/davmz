@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jonah 1:17 (NLT)**
-> Now the LORD had arranged for a great fish to swallow Jonah. And Jonah was inside the fish for three days and three nights.
+**📖 Esther 4:14 (NIV)**
+> For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?”
 
 <!-- END: Verse of the Day -->
