@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Esther 4:14 (NIV)**
-> For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?”
+**📖 James 1:5 (NIV)**
+> If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.
 
 <!-- END: Verse of the Day -->
