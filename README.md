@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 1:5 (NIV)**
-> If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.
+**📖 Luke 6:36 (ESV)**
+> Be merciful, even as your Father is merciful.
 
 <!-- END: Verse of the Day -->
