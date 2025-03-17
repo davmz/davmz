@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 27:4 (NLT)**
-> The one thing I ask of the LORD—
-the thing I seek most—
-is to live in the house of the LORD all the days of my life,
-delighting in the LORD’s perfections
-and meditating in his Temple.
+**📖 Jude 1:22 (NLT)**
+> And you must show mercy to those whose faith is wavering.
 
 <!-- END: Verse of the Day -->
