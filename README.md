@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jude 1:22 (NLT)**
-> And you must show mercy to those whose faith is wavering.
+**📖 John 1:1 (NLT)**
+> In the beginning the Word already existed.
+The Word was with God,
+and the Word was God.
 
 <!-- END: Verse of the Day -->
