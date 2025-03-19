@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 1:1 (NLT)**
-> In the beginning the Word already existed.
-The Word was with God,
-and the Word was God.
+**📖 Revelation 3:20 (NIV)**
+> Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.
 
 <!-- END: Verse of the Day -->
