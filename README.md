@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Revelation 3:20 (NIV)**
-> Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.
+**📖 Hebrews 13:16 (NIV)**
+> And do not forget to do good and to share with others, for with such sacrifices God is pleased.
 
 <!-- END: Verse of the Day -->
