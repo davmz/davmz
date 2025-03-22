@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 27:17 (NLT)**
-> As iron sharpens iron,
-so a friend sharpens a friend.
+**📖 Mark 2:27 (ESV)**
+> And he said to them, “The Sabbath was made for man, not man for the Sabbath.
 
 <!-- END: Verse of the Day -->
