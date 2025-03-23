@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 2:27 (ESV)**
-> And he said to them, “The Sabbath was made for man, not man for the Sabbath.
+**📖 1 Corinthians 10:13 (ESV)**
+> No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.
 
 <!-- END: Verse of the Day -->
