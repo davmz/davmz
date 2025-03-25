@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Timothy 2:15 (NLT)**
-> Work hard so you can present yourself to God and receive his approval. Be a good worker, one who does not need to be ashamed and who correctly explains the word of truth.
+**📖 Deuteronomy 6:5 (NIV)**
+> Love the LORD your God with all your heart and with all your soul and with all your strength.
 
 <!-- END: Verse of the Day -->
