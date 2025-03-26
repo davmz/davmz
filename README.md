@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Deuteronomy 6:5 (NIV)**
-> Love the LORD your God with all your heart and with all your soul and with all your strength.
+**📖 Colossians 3:12 (NIV)**
+> Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.
 
 <!-- END: Verse of the Day -->
