@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 3:12 (NIV)**
-> Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.
+**📖 1 Peter 4:8 (NLT)**
+> Most important of all, continue to show deep love for each other, for love covers a multitude of sins.
 
 <!-- END: Verse of the Day -->
