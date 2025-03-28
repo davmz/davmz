@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 4:8 (NLT)**
-> Most important of all, continue to show deep love for each other, for love covers a multitude of sins.
+**📖 Jeremiah 17:7 (NIV)**
+> “But blessed is the one who trusts in the LORD,
+whose confidence is in him.
 
 <!-- END: Verse of the Day -->
