@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:4-5 (NLT)**
-> Remain in me, and I will remain in you. For a branch cannot produce fruit if it is severed from the vine, and you cannot be fruitful unless you remain in me. “Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing.
+**📖 2 Corinthians 5:21 (NIV)**
+> God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
 
 <!-- END: Verse of the Day -->
