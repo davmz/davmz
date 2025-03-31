@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 5:21 (NIV)**
-> God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
+**📖 Philippians 2:13 (NIV)**
+> for it is God who works in you to will and to act in order to fulfill his good purpose.
 
 <!-- END: Verse of the Day -->
