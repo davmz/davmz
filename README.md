@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 2:13 (NIV)**
-> for it is God who works in you to will and to act in order to fulfill his good purpose.
+**📖 Psalms 103:2 (NLT)**
+> Let all that I am praise the LORD;
+may I never forget the good things he does for me.
 
 <!-- END: Verse of the Day -->
