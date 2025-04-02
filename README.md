@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 103:2 (NLT)**
-> Let all that I am praise the LORD;
-may I never forget the good things he does for me.
+**📖 1 John 4:11 (NLT)**
+> Dear friends, since God loved us that much, we surely ought to love each other.
 
 <!-- END: Verse of the Day -->
