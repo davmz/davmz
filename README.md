@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:11 (NLT)**
-> Dear friends, since God loved us that much, we surely ought to love each other.
+**📖 1 Corinthians 10:31 (NLT)**
+> So whether you eat or drink, or whatever you do, do it all for the glory of God.
 
 <!-- END: Verse of the Day -->
