@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 10:31 (NLT)**
-> So whether you eat or drink, or whatever you do, do it all for the glory of God.
+**📖 Genesis 1:1 (NIV)**
+> In the beginning God created the heavens and the earth.
 
 <!-- END: Verse of the Day -->
