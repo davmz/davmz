@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Genesis 1:1 (NIV)**
-> In the beginning God created the heavens and the earth.
+**📖 Exodus 33:14 (NIV)**
+> The LORD replied, “My Presence will go with you, and I will give you rest.”
 
 <!-- END: Verse of the Day -->
