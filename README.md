@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Exodus 33:14 (NIV)**
-> The LORD replied, “My Presence will go with you, and I will give you rest.”
+**📖 Philippians 3:10-11 (NIV)**
+> I want to know Christ—yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death and so, somehow, attaining to the resurrection from the dead.
 
 <!-- END: Verse of the Day -->
