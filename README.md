@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 3:10-11 (NIV)**
-> I want to know Christ—yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death and so, somehow, attaining to the resurrection from the dead.
+**📖 Acts 4:12 (ESV)**
+> And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”
 
 <!-- END: Verse of the Day -->
