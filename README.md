@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 4:12 (ESV)**
-> And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”
+**📖 Isaiah 54:17 (NIV)**
+> no weapon forged against you will prevail,
+and you will refute every tongue that accuses you.
+This is the heritage of the servants of the LORD,
+and this is their vindication from me,”
+declares the LORD.
 
 <!-- END: Verse of the Day -->
