@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 54:17 (NIV)**
-> no weapon forged against you will prevail,
-and you will refute every tongue that accuses you.
-This is the heritage of the servants of the LORD,
-and this is their vindication from me,”
-declares the LORD.
+**📖 1 Corinthians 3:16 (NIV)**
+> Don’t you know that you yourselves are God’s temple and that God’s Spirit dwells in your midst?
 
 <!-- END: Verse of the Day -->
