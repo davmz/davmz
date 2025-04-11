@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 9:37-38 (ESV)**
-> Then he said to his disciples, “The harvest is plentiful, but the laborers are few therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+**📖 Philippians 4:13 (ESV)**
+> I can do all things through him who strengthens me.
 
 <!-- END: Verse of the Day -->
