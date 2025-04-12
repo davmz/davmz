@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:13 (ESV)**
-> I can do all things through him who strengthens me.
+**📖 Galatians 5:13 (NLT)**
+> For you have been called to live in freedom, my brothers and sisters. But don’t use your freedom to satisfy your sinful nature. Instead, use your freedom to serve one another in love.
 
 <!-- END: Verse of the Day -->
