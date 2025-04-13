@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:13 (NLT)**
-> For you have been called to live in freedom, my brothers and sisters. But don’t use your freedom to satisfy your sinful nature. Instead, use your freedom to serve one another in love.
+**📖 Matthew 21:5 (NLT)**
+> “Tell the people of Jerusalem,
+‘Look, your King is coming to you.
+He is humble, riding on a donkey—
+riding on a donkey’s colt.’”
 
 <!-- END: Verse of the Day -->
