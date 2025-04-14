@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 21:5 (NLT)**
-> “Tell the people of Jerusalem,
-‘Look, your King is coming to you.
-He is humble, riding on a donkey—
-riding on a donkey’s colt.’”
+**📖 Matthew 23:37 (NIV)**
+> “Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
 
 <!-- END: Verse of the Day -->
