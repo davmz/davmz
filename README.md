@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 23:37 (NIV)**
-> “Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
+**📖 Matthew 21:13 (NIV)**
+> “It is written,” he said to them, “ ‘My house will be called a house of prayer,’ but you are making it ‘a den of robbers.’”
 
 <!-- END: Verse of the Day -->
