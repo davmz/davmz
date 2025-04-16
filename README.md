@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 21:13 (NIV)**
-> “It is written,” he said to them, “ ‘My house will be called a house of prayer,’ but you are making it ‘a den of robbers.’”
+**📖 Matthew 21:43 (NLT)**
+> I tell you, the Kingdom of God will be taken away from you and given to a nation that will produce the proper fruit.
 
 <!-- END: Verse of the Day -->
