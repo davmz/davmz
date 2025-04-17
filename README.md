@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 21:43 (NLT)**
-> I tell you, the Kingdom of God will be taken away from you and given to a nation that will produce the proper fruit.
+**📖 John 6:51 (NIV)**
+> I am the living bread that came down from heaven. Whoever eats this bread will live forever. This bread is my flesh, which I will give for the life of the world.”
 
 <!-- END: Verse of the Day -->
