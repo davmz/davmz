@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 6:51 (NIV)**
-> I am the living bread that came down from heaven. Whoever eats this bread will live forever. This bread is my flesh, which I will give for the life of the world.”
+**📖 John 15:13 (NIV)**
+> Greater love has no one than this: to lay down one’s life for one’s friends.
 
 <!-- END: Verse of the Day -->
