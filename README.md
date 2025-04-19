@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:13 (NIV)**
-> Greater love has no one than this: to lay down one’s life for one’s friends.
+**📖 John 16:20 (ESV)**
+> Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy.
 
 <!-- END: Verse of the Day -->
