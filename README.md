@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 16:20 (ESV)**
-> Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy.
+**📖 John 16:33 (NIV)**
+> “I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”
 
 <!-- END: Verse of the Day -->
