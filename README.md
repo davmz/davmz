@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 16:33 (NIV)**
-> “I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”
+**📖 Psalms 16:9-10 (NIV)**
+> Therefore my heart is glad and my tongue rejoices;
+my body also will rest secure because you will not abandon me to the realm of the dead,
+nor will you let your faithful one see decay.
 
 <!-- END: Verse of the Day -->
