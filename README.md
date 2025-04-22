@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 16:9-10 (NIV)**
-> Therefore my heart is glad and my tongue rejoices;
-my body also will rest secure because you will not abandon me to the realm of the dead,
-nor will you let your faithful one see decay.
+**📖 Romans 3:25 (NLT)**
+> For God presented Jesus as the sacrifice for sin. People are made right with God when they believe that Jesus sacrificed his life, shedding his blood. This sacrifice shows that God was being fair when he held back and did not punish those who sinned in times past
 
 <!-- END: Verse of the Day -->
