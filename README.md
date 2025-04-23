@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 3:25 (NLT)**
-> For God presented Jesus as the sacrifice for sin. People are made right with God when they believe that Jesus sacrificed his life, shedding his blood. This sacrifice shows that God was being fair when he held back and did not punish those who sinned in times past
+**📖 1 John 5:14 (ESV)**
+> And this is the confidence that we have toward him, that if we ask anything according to his will he hears us.
 
 <!-- END: Verse of the Day -->
