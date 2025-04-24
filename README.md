@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 5:14 (ESV)**
-> And this is the confidence that we have toward him, that if we ask anything according to his will he hears us.
+**📖 1 Corinthians 3:7 (ESV)**
+> So neither he who plants nor he who waters is anything, but only God who gives the growth.
 
 <!-- END: Verse of the Day -->
