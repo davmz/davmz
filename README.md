@@ -188,8 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:19 (NIV)**
-> The righteous person may have many troubles,
-but the LORD delivers him from them all
+**📖 Isaiah 9:2 (NLT)**
+> The people who walk in darkness
+will see a great light.
+For those who live in a land of deep darkness,
+a light will shine.
 
 <!-- END: Verse of the Day -->
