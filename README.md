@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 9:2 (NLT)**
-> The people who walk in darkness
-will see a great light.
-For those who live in a land of deep darkness,
-a light will shine.
+**📖 Luke 19:38 (ESV)**
+> saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
 
 <!-- END: Verse of the Day -->
