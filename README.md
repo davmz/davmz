@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 19:38 (ESV)**
-> saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
+**📖 Hebrews 11:1 (NIV)**
+> Now faith is confidence in what we hope for and assurance about what we do not see.
 
 <!-- END: Verse of the Day -->
