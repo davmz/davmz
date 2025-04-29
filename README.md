@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 11:1 (NIV)**
-> Now faith is confidence in what we hope for and assurance about what we do not see.
+**📖 Habakkuk 2:14 (NIV)**
+> For the earth will be filled with the knowledge of the glory of the LORD
+as the waters cover the sea.
 
 <!-- END: Verse of the Day -->
