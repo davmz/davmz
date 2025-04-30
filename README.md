@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Habakkuk 2:14 (NIV)**
-> For the earth will be filled with the knowledge of the glory of the LORD
-as the waters cover the sea.
+**📖 Romans 12:1 (NLT)**
+> And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice—the kind he will find acceptable. This is truly the way to worship him.
 
 <!-- END: Verse of the Day -->
