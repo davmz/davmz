@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:1 (NLT)**
-> And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice—the kind he will find acceptable. This is truly the way to worship him.
+**📖 Ephesians 3:20-21 (ESV)**
+> Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
 
 <!-- END: Verse of the Day -->
