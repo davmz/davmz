@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 3:20-21 (ESV)**
-> Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
+**📖 Philippians 1:6 (NIV)**
+> being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.
 
 <!-- END: Verse of the Day -->
