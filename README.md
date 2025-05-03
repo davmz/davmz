@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 1:6 (NIV)**
-> being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.
+**📖 Matthew 6:25 (NLT)**
+> “That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing?
 
 <!-- END: Verse of the Day -->
