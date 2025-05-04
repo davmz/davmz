@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:25 (NLT)**
-> “That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing?
+**📖 Isaiah 43:1 (NIV)**
+> But now, this is what the LORD says—
+he who created you, Jacob,
+he who formed you, Israel:
+“Do not fear, for I have redeemed you;
+I have summoned you by name; you are mine.
 
 <!-- END: Verse of the Day -->
