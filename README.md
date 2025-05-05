@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 43:1 (NIV)**
-> But now, this is what the LORD says—
-he who created you, Jacob,
-he who formed you, Israel:
-“Do not fear, for I have redeemed you;
-I have summoned you by name; you are mine.
+**📖 1 John 4:4 (NLT)**
+> But you belong to God, my dear children. You have already won a victory over those people, because the Spirit who lives in you is greater than the spirit who lives in the world.
 
 <!-- END: Verse of the Day -->
