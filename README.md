@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:4 (NLT)**
-> But you belong to God, my dear children. You have already won a victory over those people, because the Spirit who lives in you is greater than the spirit who lives in the world.
+**📖 Psalms 42:11 (NIV)**
+> Why, my soul, are you downcast?
+Why so disturbed within me?
+Put your hope in God,
+for I will yet praise him,
+my Savior and my God.
 
 <!-- END: Verse of the Day -->
