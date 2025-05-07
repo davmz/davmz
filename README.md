@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 42:11 (NIV)**
-> Why, my soul, are you downcast?
-Why so disturbed within me?
-Put your hope in God,
-for I will yet praise him,
-my Savior and my God.
+**📖 Zechariah 14:9 (NLT)**
+> And the LORD will be king over all the earth. On that day there will be one LORD—his name alone will be worshiped.
 
 <!-- END: Verse of the Day -->
