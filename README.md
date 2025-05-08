@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Zechariah 14:9 (NLT)**
-> And the LORD will be king over all the earth. On that day there will be one LORD—his name alone will be worshiped.
+**📖 Isaiah 43:18-19 (NLT)**
+> “But forget all that—
+it is nothing compared to what I am going to do. For I am about to do something new.
+See, I have already begun! Do you not see it?
+I will make a pathway through the wilderness.
+I will create rivers in the dry wasteland.
 
 <!-- END: Verse of the Day -->
