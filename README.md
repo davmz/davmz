@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 13:14 (ESV)**
-> If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet.
+**📖 Genesis 2:3 (NLT)**
+> And God blessed the seventh day and declared it holy, because it was the day when he rested from all his work of creation.
 
 <!-- END: Verse of the Day -->
