@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Genesis 2:3 (NLT)**
-> And God blessed the seventh day and declared it holy, because it was the day when he rested from all his work of creation.
+**📖 Matthew 1:21 (ESV)**
+> She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
 
 <!-- END: Verse of the Day -->
