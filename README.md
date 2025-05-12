@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 1:21 (ESV)**
-> She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
+**📖 Ephesians 2:10 (ESV)**
+> For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 
 <!-- END: Verse of the Day -->
