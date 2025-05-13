@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 2:10 (ESV)**
-> For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+**📖 Philippians 4:6-7 (ESV)**
+> do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
 
 <!-- END: Verse of the Day -->
