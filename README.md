@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 4:29 (NIV)**
-> Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.
+**📖 Psalms 19:1 (NLT)**
+> The heavens proclaim the glory of God.
+The skies display his craftsmanship.
 
 <!-- END: Verse of the Day -->
