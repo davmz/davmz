@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 19:1 (NLT)**
-> The heavens proclaim the glory of God.
-The skies display his craftsmanship.
+**📖 John 16:13 (NIV)**
+> But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.
 
 <!-- END: Verse of the Day -->
