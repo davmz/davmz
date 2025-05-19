@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:14 (NLT)**
-> But how can they call on him to save them unless they believe in him? And how can they believe in him if they have never heard about him? And how can they hear about him unless someone tells them?
+**📖 Psalms 100:4 (NIV)**
+> Enter his gates with thanksgiving
+and his courts with praise;
+give thanks to him and praise his name.
 
 <!-- END: Verse of the Day -->
