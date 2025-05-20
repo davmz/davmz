@@ -188,9 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 100:4 (NIV)**
-> Enter his gates with thanksgiving
-and his courts with praise;
-give thanks to him and praise his name.
+**📖 Mark 12:10 (NIV)**
+> Haven’t you read this passage of Scripture:
+“ ‘The stone the builders rejected
+has become the cornerstone
 
 <!-- END: Verse of the Day -->
