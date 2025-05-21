@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 12:10 (NIV)**
-> Haven’t you read this passage of Scripture:
-“ ‘The stone the builders rejected
-has become the cornerstone
+**📖 Romans 8:38-39 (ESV)**
+> For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 
 <!-- END: Verse of the Day -->
