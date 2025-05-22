@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:38-39 (ESV)**
-> For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
+**📖 Matthew 25:31-32 (NIV)**
+> “When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne. All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.
 
 <!-- END: Verse of the Day -->
