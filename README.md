@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 25:31-32 (NIV)**
-> “When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne. All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.
+**📖 Matthew 25:34 (NLT)**
+> “Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the creation of the world.
 
 <!-- END: Verse of the Day -->
