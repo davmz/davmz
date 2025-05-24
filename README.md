@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 25:34 (NLT)**
-> “Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the creation of the world.
+**📖 Matthew 25:35-36 (NIV)**
+> For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
 
 <!-- END: Verse of the Day -->
