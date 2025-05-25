@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 25:35-36 (NIV)**
-> For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
+**📖 Matthew 25:40 (NLT)**
+> “And the King will say, ‘I tell you the truth, when you did it to one of the least of these my brothers and sisters, you were doing it to me!’
 
 <!-- END: Verse of the Day -->
