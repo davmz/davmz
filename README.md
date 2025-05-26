@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 25:40 (NLT)**
-> “And the King will say, ‘I tell you the truth, when you did it to one of the least of these my brothers and sisters, you were doing it to me!’
+**📖 Galatians 4:7 (NIV)**
+> So you are no longer a slave, but God’s child; and since you are his child, God has made you also an heir.
 
 <!-- END: Verse of the Day -->
