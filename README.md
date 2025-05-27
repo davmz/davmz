@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 4:7 (NIV)**
-> So you are no longer a slave, but God’s child; and since you are his child, God has made you also an heir.
+**📖 1 Timothy 4:8 (ESV)**
+> for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.
 
 <!-- END: Verse of the Day -->
