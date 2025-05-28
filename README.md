@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 4:8 (ESV)**
-> for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.
+**📖 Philippians 1:9-10 (ESV)**
+> And it is my prayer that your love may abound more and more, with knowledge and all discernment so that you may approve what is excellent, and so be pure and blameless for the day of Christ
 
 <!-- END: Verse of the Day -->
