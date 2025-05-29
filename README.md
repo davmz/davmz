@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 1:9-10 (ESV)**
-> And it is my prayer that your love may abound more and more, with knowledge and all discernment so that you may approve what is excellent, and so be pure and blameless for the day of Christ
+**📖 Proverbs 3:5-6 (NLT)**
+> Trust in the LORD with all your heart;
+do not depend on your own understanding. Seek his will in all you do,
+and he will show you which path to take.
 
 <!-- END: Verse of the Day -->
