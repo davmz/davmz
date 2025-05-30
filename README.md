@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 3:5-6 (NLT)**
-> Trust in the LORD with all your heart;
-do not depend on your own understanding. Seek his will in all you do,
-and he will show you which path to take.
+**📖 2 Corinthians 9:7 (ESV)**
+> Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
 
 <!-- END: Verse of the Day -->
