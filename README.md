@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 9:7 (ESV)**
-> Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
+**📖 Psalm 100:5 (ESV)**
+> For the LORD is good;
+his steadfast love endures forever,
+and his faithfulness to all generations.
 
 <!-- END: Verse of the Day -->
