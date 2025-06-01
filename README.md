@@ -188,9 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 100:5 (ESV)**
-> For the LORD is good;
-his steadfast love endures forever,
-and his faithfulness to all generations.
+**📖 Isaiah 53:5 (ESV)**
+> But he was pierced for our transgressions;
+he was crushed for our iniquities;
+upon him was the chastisement that brought us peace,
+and with his wounds we are healed.
 
 <!-- END: Verse of the Day -->
