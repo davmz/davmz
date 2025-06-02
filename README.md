@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 53:5 (ESV)**
-> But he was pierced for our transgressions;
-he was crushed for our iniquities;
-upon him was the chastisement that brought us peace,
-and with his wounds we are healed.
+**📖 Matthew 18:3-5 (NIV)**
+> And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven. And whoever welcomes one such child in my name welcomes me.
 
 <!-- END: Verse of the Day -->
