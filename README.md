@@ -188,7 +188,13 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 5:7 (NIV)**
-> Cast all your anxiety on him because he cares for you.
+**📖 Psalm 23:5-6 (ESV)**
+> You prepare a table before me
+in the presence of my enemies;
+you anoint my head with oil;
+my cup overflows. Surely goodness and mercy shall follow me
+all the days of my life,
+and I shall dwell in the house of the LORD
+forever.
 
 <!-- END: Verse of the Day -->
