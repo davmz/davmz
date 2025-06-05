@@ -188,13 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 23:5-6 (ESV)**
-> You prepare a table before me
-in the presence of my enemies;
-you anoint my head with oil;
-my cup overflows. Surely goodness and mercy shall follow me
-all the days of my life,
-and I shall dwell in the house of the LORD
-forever.
+**📖 1 Chronicles 16:11 (NLT)**
+> Search for the LORD and for his strength;
+continually seek him.
 
 <!-- END: Verse of the Day -->
