@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Chronicles 16:11 (NLT)**
-> Search for the LORD and for his strength;
-continually seek him.
+**📖 Mark 8:35 (NIV)**
+> For whoever wants to save their life will lose it, but whoever loses their life for me and for the gospel will save it.
 
 <!-- END: Verse of the Day -->
