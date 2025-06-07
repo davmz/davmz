@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 8:35 (NIV)**
-> For whoever wants to save their life will lose it, but whoever loses their life for me and for the gospel will save it.
+**📖 1 Corinthians 16:13 (NLT)**
+> Be on guard. Stand firm in the faith. Be courageous. Be strong.
 
 <!-- END: Verse of the Day -->
