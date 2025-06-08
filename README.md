@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 16:13 (NLT)**
-> Be on guard. Stand firm in the faith. Be courageous. Be strong.
+**📖 Acts 4:31 (ESV)**
+> And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness.
 
 <!-- END: Verse of the Day -->
