@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 10:5 (NIV)**
-> We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.
+**📖 Psalms 30:5 (NLT)**
+> For his anger lasts only a moment,
+but his favor lasts a lifetime!
+Weeping may last through the night,
+but joy comes with the morning.
 
 <!-- END: Verse of the Day -->
