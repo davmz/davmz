@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 30:5 (NLT)**
-> For his anger lasts only a moment,
-but his favor lasts a lifetime!
-Weeping may last through the night,
-but joy comes with the morning.
+**📖 Colossians 1:13 (NIV)**
+> For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves
 
 <!-- END: Verse of the Day -->
