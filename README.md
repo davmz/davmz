@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 1:13 (NIV)**
-> For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves
+**📖 Proverbs 29:25 (ESV)**
+> The fear of man lays a snare,
+but whoever trusts in the LORD is safe.
 
 <!-- END: Verse of the Day -->
