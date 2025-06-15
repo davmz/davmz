@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 29:25 (ESV)**
-> The fear of man lays a snare,
-but whoever trusts in the LORD is safe.
+**📖 Romans 8:28 (ESV)**
+> And we know that for those who love God all things work together for good, for those who are called according to his purpose.
 
 <!-- END: Verse of the Day -->
