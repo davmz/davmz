@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:28 (ESV)**
-> And we know that for those who love God all things work together for good, for those who are called according to his purpose.
+**📖 1 Timothy 4:12 (ESV)**
+> Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.
 
 <!-- END: Verse of the Day -->
