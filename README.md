@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 4:12 (ESV)**
-> Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.
+**📖 2 Corinthians 1:3-4 (NIV)**
+> Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.
 
 <!-- END: Verse of the Day -->
