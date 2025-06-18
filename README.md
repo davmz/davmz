@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 1:3-4 (NIV)**
-> Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.
+**📖 Hebrews 5:7 (NIV)**
+> During the days of Jesus’ life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent submission.
 
 <!-- END: Verse of the Day -->
