@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 5:7 (NIV)**
-> During the days of Jesus’ life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent submission.
+**📖 1 Corinthians 15:57 (NIV)**
+> But thanks be to God! He gives us the victory through our Lord Jesus Christ.
 
 <!-- END: Verse of the Day -->
