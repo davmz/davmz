@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 15:57 (NIV)**
-> But thanks be to God! He gives us the victory through our Lord Jesus Christ.
+**📖 Acts 20:24 (NIV)**
+> However, I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me—the task of testifying to the good news of God’s grace.
 
 <!-- END: Verse of the Day -->
