@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 20:24 (NIV)**
-> However, I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me—the task of testifying to the good news of God’s grace.
+**📖 Psalms 77:11-12 (NIV)**
+> I will remember the deeds of the LORD;
+yes, I will remember your miracles of long ago. I will consider all your works
+and meditate on all your mighty deeds.”
 
 <!-- END: Verse of the Day -->
