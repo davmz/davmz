@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 77:11-12 (NIV)**
-> I will remember the deeds of the LORD;
-yes, I will remember your miracles of long ago. I will consider all your works
-and meditate on all your mighty deeds.”
+**📖 1 Peter 5:6 (NIV)**
+> Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time.
 
 <!-- END: Verse of the Day -->
