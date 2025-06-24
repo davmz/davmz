@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:3 (NIV)**
-> “Blessed are the poor in spirit,
-for theirs is the kingdom of heaven.
+**📖 Matthew 5:4 (NIV)**
+> Blessed are those who mourn,
+for they will be comforted.
 
 <!-- END: Verse of the Day -->
