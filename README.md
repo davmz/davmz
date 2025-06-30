@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:9 (NIV)**
-> Blessed are the peacemakers,
-for they will be called children of God.
+**📖 Matthew 5:10 (NLT)**
+> God blesses those who are persecuted for doing right,
+for the Kingdom of Heaven is theirs.
 
 <!-- END: Verse of the Day -->
