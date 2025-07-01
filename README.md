@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:10 (NLT)**
-> God blesses those who are persecuted for doing right,
-for the Kingdom of Heaven is theirs.
+**📖 1 John 4:9 (NIV)**
+> This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.
 
 <!-- END: Verse of the Day -->
