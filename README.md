@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:9 (NIV)**
-> This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.
+**📖 Psalms 34:8 (NLT)**
+> Taste and see that the LORD is good.
+Oh, the joys of those who take refuge in him!
 
 <!-- END: Verse of the Day -->
