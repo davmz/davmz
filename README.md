@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:8 (NLT)**
-> Taste and see that the LORD is good.
-Oh, the joys of those who take refuge in him!
+**📖 John 20:29 (NLT)**
+> Then Jesus told him, “You believe because you have seen me. Blessed are those who believe without seeing me.”
 
 <!-- END: Verse of the Day -->
