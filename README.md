@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 20:29 (NLT)**
-> Then Jesus told him, “You believe because you have seen me. Blessed are those who believe without seeing me.”
+**📖 2 Corinthians 3:17 (NLT)**
+> For the Lord is the Spirit, and wherever the Spirit of the Lord is, there is freedom.
 
 <!-- END: Verse of the Day -->
