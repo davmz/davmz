@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 3:17 (NLT)**
-> For the Lord is the Spirit, and wherever the Spirit of the Lord is, there is freedom.
+**📖 Matthew 6:34 (NIV)**
+> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 
 <!-- END: Verse of the Day -->
