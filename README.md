@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:34 (NIV)**
-> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+**📖 Romans 8:6 (NLT)**
+> So letting your sinful nature control your mind leads to death. But letting the Spirit control your mind leads to life and peace.
 
 <!-- END: Verse of the Day -->
