@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:6 (NLT)**
-> So letting your sinful nature control your mind leads to death. But letting the Spirit control your mind leads to life and peace.
+**📖 Proverbs 9:10 (NLT)**
+> Fear of the LORD is the foundation of wisdom.
+Knowledge of the Holy One results in good judgment.
 
 <!-- END: Verse of the Day -->
