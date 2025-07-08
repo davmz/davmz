@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 9:10 (NLT)**
-> Fear of the LORD is the foundation of wisdom.
-Knowledge of the Holy One results in good judgment.
+**📖 Galatians 6:2 (NLT)**
+> Share each other’s burdens, and in this way obey the law of Christ.
 
 <!-- END: Verse of the Day -->
