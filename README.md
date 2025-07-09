@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 6:2 (NLT)**
-> Share each other’s burdens, and in this way obey the law of Christ.
+**📖 Mark 11:24 (NIV)**
+> Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
 
 <!-- END: Verse of the Day -->
