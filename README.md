@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 11:24 (NIV)**
-> Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
+**📖 James 1:19 (NIV)**
+> My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry
 
 <!-- END: Verse of the Day -->
