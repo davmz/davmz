@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 1:19 (NIV)**
-> My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry
+**📖 Amos 5:24 (NIV)**
+> But let justice roll on like a river,
+righteousness like a never-failing stream!
 
 <!-- END: Verse of the Day -->
