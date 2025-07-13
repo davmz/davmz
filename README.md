@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 105:1 (ESV)**
-> Oh give thanks to the LORD; call upon his name;
-make known his deeds among the peoples!
+**📖 Genesis 1:3 (NIV)**
+> And God said, “Let there be light,” and there was light.
 
 <!-- END: Verse of the Day -->
