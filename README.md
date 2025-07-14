@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Genesis 1:3 (NIV)**
-> And God said, “Let there be light,” and there was light.
+**📖 Romans 10:13 (ESV)**
+> For “everyone who calls on the name of the Lord will be saved.”
 
 <!-- END: Verse of the Day -->
