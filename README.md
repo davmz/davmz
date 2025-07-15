@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:13 (ESV)**
-> For “everyone who calls on the name of the Lord will be saved.”
+**📖 John 20:21 (NLT)**
+> Again he said, “Peace be with you. As the Father has sent me, so I am sending you.”
 
 <!-- END: Verse of the Day -->
