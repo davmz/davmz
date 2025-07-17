@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 9:23-24 (NIV)**
-> Then he said to them all: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will save it.
+**📖 Matthew 11:28 (NIV)**
+> “Come to me, all you who are weary and burdened, and I will give you rest.
 
 <!-- END: Verse of the Day -->
