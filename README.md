@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 11:28 (NIV)**
-> “Come to me, all you who are weary and burdened, and I will give you rest.
+**📖 Isaiah 1:17 (NIV)**
+> Learn to do right; seek justice.
+Defend the oppressed.
+Take up the cause of the fatherless;
+plead the case of the widow.
 
 <!-- END: Verse of the Day -->
