@@ -188,10 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 1:17 (NIV)**
-> Learn to do right; seek justice.
-Defend the oppressed.
-Take up the cause of the fatherless;
-plead the case of the widow.
+**📖 Psalms 119:114 (NIV)**
+> You are my refuge and my shield;
+I have put my hope in your word.
 
 <!-- END: Verse of the Day -->
