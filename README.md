@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 119:114 (NIV)**
-> You are my refuge and my shield;
-I have put my hope in your word.
+**📖 Romans 8:18 (NIV)**
+> I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.
 
 <!-- END: Verse of the Day -->
