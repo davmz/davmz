@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:18 (NIV)**
-> I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.
+**📖 Jeremiah 31:25 (NLT)**
+> For I have given rest to the weary and joy to the sorrowing.”
 
 <!-- END: Verse of the Day -->
