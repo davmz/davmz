@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 31:25 (NLT)**
-> For I have given rest to the weary and joy to the sorrowing.”
+**📖 Ephesians 6:12 (NIV)**
+> For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 
 <!-- END: Verse of the Day -->
