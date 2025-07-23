@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 6:12 (NIV)**
-> For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
+**📖 1 Samuel 2:2 (NLT)**
+> No one is holy like the LORD!
+There is no one besides you;
+there is no Rock like our God.
 
 <!-- END: Verse of the Day -->
