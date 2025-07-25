@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 33:5 (NLT)**
-> He loves whatever is just and good;
-the unfailing love of the LORD fills the earth.
+**📖 Matthew 20:28 (ESV)**
+> even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 
 <!-- END: Verse of the Day -->
