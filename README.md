@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 20:28 (ESV)**
-> even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
+**📖 Colossians 3:13 (ESV)**
+> bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive.
 
 <!-- END: Verse of the Day -->
