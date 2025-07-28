@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Deuteronomy 7:9 (NIV)**
-> Know therefore that the LORD your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments.
+**📖 Psalms 55:22 (NLT)**
+> Give your burdens to the LORD,
+and he will take care of you.
+He will not permit the godly to slip and fall.
 
 <!-- END: Verse of the Day -->
