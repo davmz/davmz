@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 55:22 (NLT)**
-> Give your burdens to the LORD,
-and he will take care of you.
-He will not permit the godly to slip and fall.
+**📖 John 8:12 (NLT)**
+> Jesus spoke to the people once more and said, “I am the light of the world. If you follow me, you won’t have to walk in darkness, because you will have the light that leads to life.”
 
 <!-- END: Verse of the Day -->
