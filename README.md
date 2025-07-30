@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 8:12 (NLT)**
-> Jesus spoke to the people once more and said, “I am the light of the world. If you follow me, you won’t have to walk in darkness, because you will have the light that leads to life.”
+**📖 James 4:17 (ESV)**
+> So whoever knows the right thing to do and fails to do it, for him it is sin.
 
 <!-- END: Verse of the Day -->
