@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 4:17 (ESV)**
-> So whoever knows the right thing to do and fails to do it, for him it is sin.
+**📖 Philippians 2:3 (ESV)**
+> Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves.
 
 <!-- END: Verse of the Day -->
