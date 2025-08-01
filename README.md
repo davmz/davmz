@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 2:3 (ESV)**
-> Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves.
+**📖 Joshua 1:8 (NIV)**
+> Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.
 
 <!-- END: Verse of the Day -->
