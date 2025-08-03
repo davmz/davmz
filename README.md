@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Peter 3:9 (ESV)**
-> The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
+**📖 Colossians 3:2 (NLT)**
+> Think about the things of heaven, not the things of earth.
 
 <!-- END: Verse of the Day -->
