@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 3:2 (NLT)**
-> Think about the things of heaven, not the things of earth.
+**📖 Matthew 4:4 (NIV)**
+> Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
 
 <!-- END: Verse of the Day -->
