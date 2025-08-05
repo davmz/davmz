@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 4:4 (NIV)**
-> Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
+**📖 Galatians 6:9 (NIV)**
+> Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.
 
 <!-- END: Verse of the Day -->
