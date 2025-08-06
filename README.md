@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 6:9 (NIV)**
-> Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.
+**📖 John 3:17 (NIV)**
+> For God did not send his Son into the world to condemn the world, but to save the world through him.
 
 <!-- END: Verse of the Day -->
