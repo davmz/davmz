@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 3:17 (NIV)**
-> For God did not send his Son into the world to condemn the world, but to save the world through him.
+**📖 Romans 5:8 (ESV)**
+> but God shows his love for us in that while we were still sinners, Christ died for us.
 
 <!-- END: Verse of the Day -->
