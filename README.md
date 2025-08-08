@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 5:8 (ESV)**
-> but God shows his love for us in that while we were still sinners, Christ died for us.
+**📖 Matthew 16:24 (NIV)**
+> Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me.
 
 <!-- END: Verse of the Day -->
