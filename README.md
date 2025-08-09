@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 16:24 (NIV)**
-> Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me.
+**📖 Proverbs 31:30 (NIV)**
+> Charm is deceptive, and beauty is fleeting;
+but a woman who fears the LORD is to be praised.
 
 <!-- END: Verse of the Day -->
