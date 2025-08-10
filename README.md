@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 31:30 (NIV)**
-> Charm is deceptive, and beauty is fleeting;
-but a woman who fears the LORD is to be praised.
+**📖 Luke 12:40 (ESV)**
+> You also must be ready, for the Son of Man is coming at an hour you do not expect.”
 
 <!-- END: Verse of the Day -->
