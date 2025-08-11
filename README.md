@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 12:40 (ESV)**
-> You also must be ready, for the Son of Man is coming at an hour you do not expect.”
+**📖 Isaiah 60:1 (ESV)**
+> Arise, shine, for your light has come,
+and the glory of the LORD has risen upon you.
 
 <!-- END: Verse of the Day -->
