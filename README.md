@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 60:1 (ESV)**
-> Arise, shine, for your light has come,
-and the glory of the LORD has risen upon you.
+**📖 Matthew 5:16 (NIV)**
+> In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
 
 <!-- END: Verse of the Day -->
