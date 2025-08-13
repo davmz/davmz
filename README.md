@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:16 (NIV)**
-> In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+**📖 Nahum 1:7 (NIV)**
+> The LORD is good,
+a refuge in times of trouble.
+He cares for those who trust in him
 
 <!-- END: Verse of the Day -->
