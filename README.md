@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Nahum 1:7 (NIV)**
-> The LORD is good,
-a refuge in times of trouble.
-He cares for those who trust in him
+**📖 Acts 20:35 (ESV)**
+> In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, ‘It is more blessed to give than to receive.’”
 
 <!-- END: Verse of the Day -->
