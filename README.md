@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:49 (NLT)**
-> For the Mighty One is holy,
-and he has done great things for me.
+**📖 2 Peter 1:3 (NIV)**
+> His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness.
 
 <!-- END: Verse of the Day -->
