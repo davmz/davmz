@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Peter 1:3 (NIV)**
-> His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness.
+**📖 Hebrews 12:1 (NLT)**
+> Therefore, since we are surrounded by such a huge crowd of witnesses to the life of faith, let us strip off every weight that slows us down, especially the sin that so easily trips us up. And let us run with endurance the race God has set before us.
 
 <!-- END: Verse of the Day -->
