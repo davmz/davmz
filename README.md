@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 12:1 (NLT)**
-> Therefore, since we are surrounded by such a huge crowd of witnesses to the life of faith, let us strip off every weight that slows us down, especially the sin that so easily trips us up. And let us run with endurance the race God has set before us.
+**📖 Psalms 84:5 (NIV)**
+> Blessed are those whose strength is in you,
+whose hearts are set on pilgrimage.
 
 <!-- END: Verse of the Day -->
