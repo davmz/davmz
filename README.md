@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 84:5 (NIV)**
-> Blessed are those whose strength is in you,
-whose hearts are set on pilgrimage.
+**📖 1 Peter 5:8 (NIV)**
+> Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.
 
 <!-- END: Verse of the Day -->
