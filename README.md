@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 5:8 (NIV)**
-> Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.
+**📖 Psalms 119:105 (NLT)**
+> Your word is a lamp to guide my feet
+and a light for my path.
 
 <!-- END: Verse of the Day -->
