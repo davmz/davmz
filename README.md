@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 119:105 (NLT)**
-> Your word is a lamp to guide my feet
-and a light for my path.
+**📖 Matthew 6:33 (NLT)**
+> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need.
 
 <!-- END: Verse of the Day -->
