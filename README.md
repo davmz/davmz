@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:33 (NLT)**
-> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need.
+**📖 Romans 12:12 (NIV)**
+> Be joyful in hope, patient in affliction, faithful in prayer.
 
 <!-- END: Verse of the Day -->
