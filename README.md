@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:12 (NIV)**
-> Be joyful in hope, patient in affliction, faithful in prayer.
+**📖 Isaiah 40:31 (NLT)**
+> But those who trust in the LORD will find new strength.
+They will soar high on wings like eagles.
+They will run and not grow weary.
+They will walk and not faint.
 
 <!-- END: Verse of the Day -->
