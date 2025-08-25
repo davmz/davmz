@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 40:31 (NLT)**
-> But those who trust in the LORD will find new strength.
-They will soar high on wings like eagles.
-They will run and not grow weary.
-They will walk and not faint.
+**📖 Malachi 4:6 (NIV)**
+> He will turn the hearts of the parents to their children, and the hearts of the children to their parents; or else I will come and strike the land with total destruction.”
 
 <!-- END: Verse of the Day -->
