@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Malachi 4:6 (NIV)**
-> He will turn the hearts of the parents to their children, and the hearts of the children to their parents; or else I will come and strike the land with total destruction.”
+**📖 Isaiah 26:4 (NLT)**
+> Trust in the LORD always,
+for the LORD GOD is the eternal Rock.
 
 <!-- END: Verse of the Day -->
