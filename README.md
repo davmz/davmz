@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 26:4 (NLT)**
-> Trust in the LORD always,
-for the LORD GOD is the eternal Rock.
+**📖 Deuteronomy 31:8 (NIV)**
+> The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.”
 
 <!-- END: Verse of the Day -->
