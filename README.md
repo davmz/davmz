@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Deuteronomy 31:8 (NIV)**
-> The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.”
+**📖 Ephesians 4:32 (NIV)**
+> Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
 
 <!-- END: Verse of the Day -->
