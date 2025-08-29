@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 4:32 (NIV)**
-> Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
+**📖 Proverbs 16:3 (NIV)**
+> Commit to the LORD whatever you do,
+and he will establish your plans.
 
 <!-- END: Verse of the Day -->
