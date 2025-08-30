@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 16:3 (NIV)**
-> Commit to the LORD whatever you do,
-and he will establish your plans.
+**📖 John 13:34 (NIV)**
+> “A new command I give you: Love one another. As I have loved you, so you must love one another.
 
 <!-- END: Verse of the Day -->
