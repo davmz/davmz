@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 13:34 (NIV)**
-> “A new command I give you: Love one another. As I have loved you, so you must love one another.
+**📖 Psalm 68:5 (ESV)**
+> Father of the fatherless and protector of widows
+is God in his holy habitation.
 
 <!-- END: Verse of the Day -->
