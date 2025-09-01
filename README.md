@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 68:5 (ESV)**
-> Father of the fatherless and protector of widows
-is God in his holy habitation.
+**📖 2 Chronicles 7:14 (NIV)**
+> if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.
 
 <!-- END: Verse of the Day -->
