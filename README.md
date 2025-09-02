@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Chronicles 7:14 (NIV)**
-> if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.
+**📖 Matthew 7:7 (NIV)**
+> “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.
 
 <!-- END: Verse of the Day -->
