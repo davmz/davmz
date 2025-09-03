@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 7:7 (NIV)**
-> “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.
+**📖 James 5:16 (ESV)**
+> Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.
 
 <!-- END: Verse of the Day -->
