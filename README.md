@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 5:16 (ESV)**
-> Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.
+**📖 Ezekiel 37:5 (ESV)**
+> Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live.
 
 <!-- END: Verse of the Day -->
