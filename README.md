@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ezekiel 37:5 (ESV)**
-> Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live.
+**📖 Exodus 33:15 (NIV)**
+> Then Moses said to him, “If your Presence does not go with us, do not send us up from here.
 
 <!-- END: Verse of the Day -->
