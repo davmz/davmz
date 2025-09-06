@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Exodus 33:15 (NIV)**
-> Then Moses said to him, “If your Presence does not go with us, do not send us up from here.
+**📖 Micah 6:8 (NIV)**
+> He has shown you, O mortal, what is good.
+And what does the LORD require of you?
+To act justly and to love mercy
+and to walk humbly with your God.
 
 <!-- END: Verse of the Day -->
