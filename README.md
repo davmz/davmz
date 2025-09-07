@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Micah 6:8 (NIV)**
-> He has shown you, O mortal, what is good.
-And what does the LORD require of you?
-To act justly and to love mercy
-and to walk humbly with your God.
+**📖 Acts of the Apostles 1:8 (NLT)**
+> But you will receive power when the Holy Spirit comes upon you. And you will be my witnesses, telling people about me everywhere—in Jerusalem, throughout Judea, in Samaria, and to the ends of the earth.”
 
 <!-- END: Verse of the Day -->
