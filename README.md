@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts of the Apostles 1:8 (NLT)**
-> But you will receive power when the Holy Spirit comes upon you. And you will be my witnesses, telling people about me everywhere—in Jerusalem, throughout Judea, in Samaria, and to the ends of the earth.”
+**📖 Psalm 23:4 (ESV)**
+> Even though I walk through the valley of the shadow of death,
+I will fear no evil,
+for you are with me;
+your rod and your staff,
+they comfort me.
 
 <!-- END: Verse of the Day -->
