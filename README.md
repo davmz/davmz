@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 23:4 (ESV)**
-> Even though I walk through the valley of the shadow of death,
-I will fear no evil,
-for you are with me;
-your rod and your staff,
-they comfort me.
+**📖 John 14:1 (NLT)**
+> “Don’t let your hearts be troubled. Trust in God, and trust also in me.
 
 <!-- END: Verse of the Day -->
