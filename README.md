@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 14:1 (NLT)**
-> “Don’t let your hearts be troubled. Trust in God, and trust also in me.
+**📖 Colossians 3:1 (ESV)**
+> If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.
 
 <!-- END: Verse of the Day -->
