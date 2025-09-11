@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 3:1 (ESV)**
-> If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.
+**📖 Psalms 27:14 (NIV)**
+> Wait for the LORD;
+be strong and take heart
+and wait for the LORD.
 
 <!-- END: Verse of the Day -->
