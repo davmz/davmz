@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 27:14 (NIV)**
-> Wait for the LORD;
-be strong and take heart
-and wait for the LORD.
+**📖 1 Peter 3:15 (NLT)**
+> Instead, you must worship Christ as Lord of your life. And if someone asks about your hope as a believer, always be ready to explain it.
 
 <!-- END: Verse of the Day -->
