@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 3:15 (NLT)**
-> Instead, you must worship Christ as Lord of your life. And if someone asks about your hope as a believer, always be ready to explain it.
+**📖 Psalms 113:3 (NIV)**
+> From the rising of the sun to the place where it sets,
+the name of the LORD is to be praised.
 
 <!-- END: Verse of the Day -->
