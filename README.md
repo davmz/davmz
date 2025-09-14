@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 113:3 (NIV)**
-> From the rising of the sun to the place where it sets,
-the name of the LORD is to be praised.
+**📖 Philippians 4:19 (ESV)**
+> And my God will supply every need of yours according to his riches in glory in Christ Jesus.
 
 <!-- END: Verse of the Day -->
