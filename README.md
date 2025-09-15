@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:19 (ESV)**
-> And my God will supply every need of yours according to his riches in glory in Christ Jesus.
+**📖 Isaiah 40:8 (NIV)**
+> The grass withers and the flowers fall,
+but the word of our God endures forever.”
 
 <!-- END: Verse of the Day -->
