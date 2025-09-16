@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 40:8 (NIV)**
-> The grass withers and the flowers fall,
-but the word of our God endures forever.”
+**📖 Deuteronomy 11:18 (NLT)**
+> “So commit yourselves wholeheartedly to these words of mine. Tie them to your hands and wear them on your forehead as reminders.
 
 <!-- END: Verse of the Day -->
