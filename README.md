@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Deuteronomy 11:18 (NLT)**
-> “So commit yourselves wholeheartedly to these words of mine. Tie them to your hands and wear them on your forehead as reminders.
+**📖 Romans 12:2 (ESV)**
+> Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
 
 <!-- END: Verse of the Day -->
