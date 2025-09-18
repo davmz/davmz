@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:2 (ESV)**
-> Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
+**📖 Galatians 3:28 (NLT)**
+> There is no longer Jew or Gentile, slave or free, male and female. For you are all one in Christ Jesus.
 
 <!-- END: Verse of the Day -->
