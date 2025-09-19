@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 3:28 (NLT)**
-> There is no longer Jew or Gentile, slave or free, male and female. For you are all one in Christ Jesus.
+**📖 Matthew 28:19 (NLT)**
+> Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.
 
 <!-- END: Verse of the Day -->
