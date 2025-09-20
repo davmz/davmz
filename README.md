@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 28:19 (NLT)**
-> Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.
+**📖 Philippians 2:5 (ESV)**
+> Have this mind among yourselves, which is yours in Christ Jesus
 
 <!-- END: Verse of the Day -->
