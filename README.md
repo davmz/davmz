@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 2:5 (ESV)**
-> Have this mind among yourselves, which is yours in Christ Jesus
+**📖 Luke 16:10 (NIV)**
+> “Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.
 
 <!-- END: Verse of the Day -->
