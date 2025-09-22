@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 16:10 (NIV)**
-> “Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.
+**📖 Mark 9:23 (NIV)**
+> “ ‘If you can’?” said Jesus. “Everything is possible for one who believes.”
 
 <!-- END: Verse of the Day -->
