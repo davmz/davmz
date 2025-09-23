@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 9:23 (NIV)**
-> “ ‘If you can’?” said Jesus. “Everything is possible for one who believes.”
+**📖 Ephesians 2:18 (ESV)**
+> For through him we both have access in one Spirit to the Father.
 
 <!-- END: Verse of the Day -->
