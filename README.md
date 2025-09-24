@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 2:18 (ESV)**
-> For through him we both have access in one Spirit to the Father.
+**📖 James 3:13 (NIV)**
+> Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.
 
 <!-- END: Verse of the Day -->
