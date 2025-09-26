@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 14:6 (NIV)**
-> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+**📖 Daniel 12:3 (ESV)**
+> And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever.
 
 <!-- END: Verse of the Day -->
