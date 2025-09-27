@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Daniel 12:3 (ESV)**
-> And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever.
+**📖 Hebrews 4:9 (NLT)**
+> So there is a special rest still waiting for the people of God.
 
 <!-- END: Verse of the Day -->
