@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 2:5-6 (NIV)**
-> For there is one God and one mediator between God and mankind, the man Christ Jesus who gave himself as a ransom for all people. This has now been witnessed to at the proper time.
+**📖 Isaiah 60:3 (NIV)**
+> Nations will come to your light,
+and kings to the brightness of your dawn.
 
 <!-- END: Verse of the Day -->
