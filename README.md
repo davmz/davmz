@@ -188,8 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 60:3 (NIV)**
-> Nations will come to your light,
-and kings to the brightness of your dawn.
+**📖 Isaiah 40:11 (NIV)**
+> He tends his flock like a shepherd:
+He gathers the lambs in his arms
+and carries them close to his heart;
+he gently leads those that have young.
 
 <!-- END: Verse of the Day -->
