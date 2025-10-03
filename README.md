@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Chronicles 16:34 (ESV)**
-> Oh give thanks to the LORD, for he is good;
-for his steadfast love endures forever!
+**📖 1 John 3:16 (NLT)**
+> We know what real love is because Jesus gave up his life for us. So we also ought to give up our lives for our brothers and sisters.
 
 <!-- END: Verse of the Day -->
