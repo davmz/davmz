@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 3:16 (NLT)**
-> We know what real love is because Jesus gave up his life for us. So we also ought to give up our lives for our brothers and sisters.
+**📖 Matthew 7:8 (NIV)**
+> For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
 
 <!-- END: Verse of the Day -->
