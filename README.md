@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 4:8 (NLT)**
-> In peace I will lie down and sleep,
-for you alone, O LORD, will keep me safe.
+**📖 Romans 8:11 (ESV)**
+> If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
 
 <!-- END: Verse of the Day -->
