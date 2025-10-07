@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:11 (ESV)**
-> If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
+**📖 Galatians 5:24 (ESV)**
+> And those who belong to Christ Jesus have crucified the flesh with its passions and desires.
 
 <!-- END: Verse of the Day -->
