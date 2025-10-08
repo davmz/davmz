@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:24 (ESV)**
-> And those who belong to Christ Jesus have crucified the flesh with its passions and desires.
+**📖 John 15:12 (NLT)**
+> This is my commandment: Love each other in the same way I have loved you.
 
 <!-- END: Verse of the Day -->
