@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:12 (NLT)**
-> This is my commandment: Love each other in the same way I have loved you.
+**📖 1 John 1:9 (NIV)**
+> If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
 
 <!-- END: Verse of the Day -->
