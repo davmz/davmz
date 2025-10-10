@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 1:9 (NIV)**
-> If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
+**📖 John 10:10 (NLT)**
+> The thief’s purpose is to steal and kill and destroy. My purpose is to give them a rich and satisfying life.
 
 <!-- END: Verse of the Day -->
