@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 10:10 (NLT)**
-> The thief’s purpose is to steal and kill and destroy. My purpose is to give them a rich and satisfying life.
+**📖 1 Corinthians 13:4 (NIV)**
+> Love is patient, love is kind. It does not envy, it does not boast, it is not proud.
 
 <!-- END: Verse of the Day -->
