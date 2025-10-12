@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 13:4 (NIV)**
-> Love is patient, love is kind. It does not envy, it does not boast, it is not proud.
+**📖 Psalms 18:2 (NLT)**
+> The LORD is my rock, my fortress, and my savior;
+my God is my rock, in whom I find protection.
+He is my shield, the power that saves me,
+and my place of safety.
 
 <!-- END: Verse of the Day -->
