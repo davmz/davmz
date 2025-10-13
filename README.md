@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 18:2 (NLT)**
-> The LORD is my rock, my fortress, and my savior;
-my God is my rock, in whom I find protection.
-He is my shield, the power that saves me,
-and my place of safety.
+**📖 Ephesians 1:7 (NIV)**
+> In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace
 
 <!-- END: Verse of the Day -->
