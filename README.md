@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 1:7 (NIV)**
-> In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace
+**📖 Romans 1:17 (NIV)**
+> For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.”
 
 <!-- END: Verse of the Day -->
