@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 6:35 (NIV)**
-> Then Jesus declared, “I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.
+**📖 Proverbs 18:10 (ESV)**
+> The name of the LORD is a strong tower;
+the righteous man runs into it and is safe.
 
 <!-- END: Verse of the Day -->
