@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 18:10 (ESV)**
-> The name of the LORD is a strong tower;
-the righteous man runs into it and is safe.
+**📖 Philippians 1:3 (NIV)**
+> I thank my God every time I remember you.
 
 <!-- END: Verse of the Day -->
