@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 1:3 (NIV)**
-> I thank my God every time I remember you.
+**📖 Psalms 51:10 (NIV)**
+> Create in me a pure heart, O God,
+and renew a steadfast spirit within me.
 
 <!-- END: Verse of the Day -->
