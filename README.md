@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 51:10 (NIV)**
-> Create in me a pure heart, O God,
-and renew a steadfast spirit within me.
+**📖 Ephesians 2:8-9 (NIV)**
+> For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God not by works, so that no one can boast.
 
 <!-- END: Verse of the Day -->
