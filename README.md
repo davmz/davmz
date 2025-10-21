@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 2:8-9 (NIV)**
-> For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God not by works, so that no one can boast.
+**📖 Judges 6:12 (ESV)**
+> And the angel of the LORD appeared to him and said to him, “The LORD is with you, O mighty man of valor.”
 
 <!-- END: Verse of the Day -->
