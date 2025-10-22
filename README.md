@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Judges 6:12 (ESV)**
-> And the angel of the LORD appeared to him and said to him, “The LORD is with you, O mighty man of valor.”
+**📖 Psalms 34:18 (NLT)**
+> The LORD is close to the brokenhearted;
+he rescues those whose spirits are crushed.
 
 <!-- END: Verse of the Day -->
