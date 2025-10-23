@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:18 (NLT)**
-> The LORD is close to the brokenhearted;
-he rescues those whose spirits are crushed.
+**📖 Matthew 9:37-38 (NIV)**
+> Then he said to his disciples, “The harvest is plentiful but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field.”
 
 <!-- END: Verse of the Day -->
