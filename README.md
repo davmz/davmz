@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 9:37-38 (NIV)**
-> Then he said to his disciples, “The harvest is plentiful but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field.”
+**📖 John 14:6 (NIV)**
+> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
 
 <!-- END: Verse of the Day -->
