@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 14:6 (NIV)**
-> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+**📖 Ephesians 6:11 (NLT)**
+> Put on all of God’s armor so that you will be able to stand firm against all strategies of the devil.
 
 <!-- END: Verse of the Day -->
