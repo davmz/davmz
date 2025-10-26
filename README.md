@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 6:11 (NLT)**
-> Put on all of God’s armor so that you will be able to stand firm against all strategies of the devil.
+**📖 Psalm 31:24 (ESV)**
+> Be strong, and let your heart take courage,
+all you who wait for the LORD!
 
 <!-- END: Verse of the Day -->
