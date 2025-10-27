@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 31:24 (ESV)**
-> Be strong, and let your heart take courage,
-all you who wait for the LORD!
+**📖 James 5:13 (NLT)**
+> Are any of you suffering hardships? You should pray. Are any of you happy? You should sing praises.
 
 <!-- END: Verse of the Day -->
