@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 5:13 (NLT)**
-> Are any of you suffering hardships? You should pray. Are any of you happy? You should sing praises.
+**📖 2 Corinthians 4:18 (NIV)**
+> So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.
 
 <!-- END: Verse of the Day -->
