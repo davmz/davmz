@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:8 (ESV)**
-> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.
+**📖 Romans 5:1 (ESV)**
+> Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.
 
 <!-- END: Verse of the Day -->
