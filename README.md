@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 2:20 (ESV)**
-> I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+**📖 Jeremiah 29:13 (NLT)**
+> If you look for me wholeheartedly, you will find me.
 
 <!-- END: Verse of the Day -->
