@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 29:13 (NLT)**
-> If you look for me wholeheartedly, you will find me.
+**📖 Psalms 56:3 (NLT)**
+> But when I am afraid,
+I will put my trust in you.
 
 <!-- END: Verse of the Day -->
