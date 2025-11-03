@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 56:3 (NLT)**
-> But when I am afraid,
-I will put my trust in you.
+**📖 Matthew 6:19 (NLT)**
+> “Don’t store up treasures here on earth, where moths eat them and rust destroys them, and where thieves break in and steal.
 
 <!-- END: Verse of the Day -->
