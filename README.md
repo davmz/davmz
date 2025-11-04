@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:19 (NLT)**
-> “Don’t store up treasures here on earth, where moths eat them and rust destroys them, and where thieves break in and steal.
+**📖 1 John 2:6 (NLT)**
+> Those who say they live in God should live their lives as Jesus did.
 
 <!-- END: Verse of the Day -->
