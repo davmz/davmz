@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 2:6 (NLT)**
-> Those who say they live in God should live their lives as Jesus did.
+**📖 Proverbs 16:9 (NIV)**
+> In their hearts humans plan their course,
+but the LORD establishes their steps.
 
 <!-- END: Verse of the Day -->
