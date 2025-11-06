@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 16:9 (NIV)**
-> In their hearts humans plan their course,
-but the LORD establishes their steps.
+**📖 Jeremiah 29:11 (NIV)**
+> For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.
 
 <!-- END: Verse of the Day -->
