@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 29:11 (NIV)**
-> For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.
+**📖 2 Timothy 4:7 (ESV)**
+> I have fought the good fight, I have finished the race, I have kept the faith.
 
 <!-- END: Verse of the Day -->
