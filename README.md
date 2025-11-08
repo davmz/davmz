@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Timothy 4:7 (ESV)**
-> I have fought the good fight, I have finished the race, I have kept the faith.
+**📖 1 Peter 2:24 (ESV)**
+> He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
 
 <!-- END: Verse of the Day -->
