@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 2:24 (ESV)**
-> He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
+**📖 Psalm 139:23 (ESV)**
+> Search me, O God, and know my heart!
+Try me and know my thoughts!
 
 <!-- END: Verse of the Day -->
