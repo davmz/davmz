@@ -188,8 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 139:23 (ESV)**
-> Search me, O God, and know my heart!
-Try me and know my thoughts!
+**📖 Isaiah 40:3 (NIV)**
+> A voice of one calling:
+“In the wilderness prepare
+the way for the LORD;
+make straight in the desert
+a highway for our God.
 
 <!-- END: Verse of the Day -->
