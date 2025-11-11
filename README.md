@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 40:3 (NIV)**
-> A voice of one calling:
-“In the wilderness prepare
-the way for the LORD;
-make straight in the desert
-a highway for our God.
+**📖 1 Corinthians 13:6 (NIV)**
+> Love does not delight in evil but rejoices with the truth.
 
 <!-- END: Verse of the Day -->
