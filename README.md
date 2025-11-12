@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 13:6 (NIV)**
-> Love does not delight in evil but rejoices with the truth.
+**📖 1 Thessalonians 5:11 (NLT)**
+> So encourage each other and build each other up, just as you are already doing.
 
 <!-- END: Verse of the Day -->
