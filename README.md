@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Thessalonians 5:11 (NLT)**
-> So encourage each other and build each other up, just as you are already doing.
+**📖 Philippians 4:4 (NIV)**
+> Rejoice in the Lord always. I will say it again: Rejoice!
 
 <!-- END: Verse of the Day -->
