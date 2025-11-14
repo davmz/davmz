@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:4 (NIV)**
-> Rejoice in the Lord always. I will say it again: Rejoice!
+**📖 Isaiah 25:1 (ESV)**
+> O LORD, you are my God;
+I will exalt you; I will praise your name,
+for you have done wonderful things,
+plans formed of old, faithful and sure.
 
 <!-- END: Verse of the Day -->
