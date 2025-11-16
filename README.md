@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 3:16 (NIV)**
-> For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+**📖 Luke 1:37 (NLT)**
+> For the word of God will never fail.”
 
 <!-- END: Verse of the Day -->
