@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:37 (NLT)**
-> For the word of God will never fail.”
+**📖 Hebrews 4:12 (NIV)**
+> For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart.
 
 <!-- END: Verse of the Day -->
