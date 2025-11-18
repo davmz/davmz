@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 4:12 (NIV)**
-> For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart.
+**📖 Mark 10:14 (ESV)**
+> But when Jesus saw it, he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God.
 
 <!-- END: Verse of the Day -->
