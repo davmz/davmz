@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 10:14 (ESV)**
-> But when Jesus saw it, he was indignant and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God.
+**📖 2 Timothy 1:7 (NIV)**
+> For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.
 
 <!-- END: Verse of the Day -->
