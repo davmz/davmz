@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Timothy 1:7 (NIV)**
-> For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.
+**📖 Matthew 19:26 (NLT)**
+> Jesus looked at them intently and said, “Humanly speaking, it is impossible. But with God everything is possible.”
 
 <!-- END: Verse of the Day -->
