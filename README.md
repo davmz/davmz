@@ -188,7 +188,13 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 19:26 (NLT)**
-> Jesus looked at them intently and said, “Humanly speaking, it is impossible. But with God everything is possible.”
+**📖 Isaiah 43:2 (NIV)**
+> When you pass through the waters,
+I will be with you;
+and when you pass through the rivers,
+they will not sweep over you.
+When you walk through the fire,
+you will not be burned;
+the flames will not set you ablaze.
 
 <!-- END: Verse of the Day -->
