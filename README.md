@@ -188,13 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 43:2 (NIV)**
-> When you pass through the waters,
-I will be with you;
-and when you pass through the rivers,
-they will not sweep over you.
-When you walk through the fire,
-you will not be burned;
-the flames will not set you ablaze.
+**📖 Colossians 4:2 (NIV)**
+> Devote yourselves to prayer, being watchful and thankful.
 
 <!-- END: Verse of the Day -->
