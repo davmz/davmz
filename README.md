@@ -188,7 +188,12 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 4:2 (NIV)**
-> Devote yourselves to prayer, being watchful and thankful.
+**📖 Psalms 23:4 (NIV)**
+> Even though I walk
+through the darkest valley,
+I will fear no evil,
+for you are with me;
+your rod and your staff,
+they comfort me.
 
 <!-- END: Verse of the Day -->
