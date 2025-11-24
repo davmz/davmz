@@ -188,12 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 23:4 (NIV)**
-> Even though I walk
-through the darkest valley,
-I will fear no evil,
-for you are with me;
-your rod and your staff,
-they comfort me.
+**📖 Matthew 10:20 (ESV)**
+> For it is not you who speak, but the Spirit of your Father speaking through you.
 
 <!-- END: Verse of the Day -->
