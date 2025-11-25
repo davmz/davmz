@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 10:20 (ESV)**
-> For it is not you who speak, but the Spirit of your Father speaking through you.
+**📖 Luke 6:38 (NIV)**
+> Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.”
 
 <!-- END: Verse of the Day -->
