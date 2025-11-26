@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 6:38 (NIV)**
-> Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.”
+**📖 Psalms 68:19 (NIV)**
+> Praise be to the Lord, to God our Savior,
+who daily bears our burdens.
 
 <!-- END: Verse of the Day -->
