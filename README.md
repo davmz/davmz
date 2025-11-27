@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 68:19 (NIV)**
-> Praise be to the Lord, to God our Savior,
-who daily bears our burdens.
+**📖 Psalms 9:1 (NLT)**
+> I will praise you, LORD, with all my heart;
+I will tell of all the marvelous things you have done.
 
 <!-- END: Verse of the Day -->
