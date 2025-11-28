@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 9:1 (NLT)**
-> I will praise you, LORD, with all my heart;
-I will tell of all the marvelous things you have done.
+**📖 John 8:32 (NIV)**
+> Then you will know the truth, and the truth will set you free.”
 
 <!-- END: Verse of the Day -->
