@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 12:2 (NLT)**
-> See, God has come to save me.
-I will trust in him and not be afraid.
-The LORD GOD is my strength and my song;
-he has given me victory.”
+**📖 Matthew 24:42 (NIV)**
+> “Therefore keep watch, because you do not know on what day your Lord will come.
 
 <!-- END: Verse of the Day -->
