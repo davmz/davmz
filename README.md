@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 24:42 (NIV)**
-> “Therefore keep watch, because you do not know on what day your Lord will come.
+**📖 Psalm 121:5 (ESV)**
+> The LORD is your keeper;
+the LORD is your shade on your right hand.
 
 <!-- END: Verse of the Day -->
