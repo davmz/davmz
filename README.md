@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 11:25 (NLT)**
-> The generous will prosper;
-those who refresh others will themselves be refreshed.
+**📖 Ephesians 6:18 (ESV)**
+> praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints
 
 <!-- END: Verse of the Day -->
