@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 6:18 (ESV)**
-> praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints
+**📖 Psalms 145:18 (NIV)**
+> The LORD is near to all who call on him,
+to all who call on him in truth.
 
 <!-- END: Verse of the Day -->
