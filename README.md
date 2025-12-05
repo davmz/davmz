@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 145:18 (NIV)**
-> The LORD is near to all who call on him,
-to all who call on him in truth.
+**📖 1 John 4:19 (NIV)**
+> We love because he first loved us.
 
 <!-- END: Verse of the Day -->
