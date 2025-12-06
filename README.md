@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:19 (NIV)**
-> We love because he first loved us.
+**📖 Psalms 34:18 (NLT)**
+> The LORD is close to the brokenhearted;
+he rescues those whose spirits are crushed.
 
 <!-- END: Verse of the Day -->
