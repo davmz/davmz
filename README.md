@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 15:5 (ESV)**
-> May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus
+**📖 Proverbs 4:23 (NIV)**
+> Above all else, guard your heart,
+for everything you do flows from it.
 
 <!-- END: Verse of the Day -->
