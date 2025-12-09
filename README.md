@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 4:23 (NIV)**
-> Above all else, guard your heart,
-for everything you do flows from it.
+**📖 Jeremiah 33:14 (NLT)**
+> “The day will come, says the LORD, when I will do for Israel and Judah all the good things I have promised them.
 
 <!-- END: Verse of the Day -->
