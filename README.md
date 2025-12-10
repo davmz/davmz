@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 33:14 (NLT)**
-> “The day will come, says the LORD, when I will do for Israel and Judah all the good things I have promised them.
+**📖 Isaiah 7:14 (NIV)**
+> Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel.
 
 <!-- END: Verse of the Day -->
