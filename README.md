@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 7:14 (NIV)**
-> Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel.
+**📖 Psalm 85:2 (ESV)**
+> You forgave the iniquity of your people;
+you covered all their sin. Selah
 
 <!-- END: Verse of the Day -->
