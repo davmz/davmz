@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 85:2 (ESV)**
-> You forgave the iniquity of your people;
-you covered all their sin. Selah
+**📖 John 10:11 (ESV)**
+> I am the good shepherd. The good shepherd lays down his life for the sheep.
 
 <!-- END: Verse of the Day -->
