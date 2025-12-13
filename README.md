@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 10:11 (ESV)**
-> I am the good shepherd. The good shepherd lays down his life for the sheep.
+**📖 1 John 4:16 (NLT)**
+> We know how much God loves us, and we have put our trust in his love.
+God is love, and all who live in love live in God, and God lives in them.
 
 <!-- END: Verse of the Day -->
