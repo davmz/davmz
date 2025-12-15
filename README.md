@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 5:8 (NIV)**
-> You too, be patient and stand firm, because the Lord’s coming is near.
+**📖 Romans 10:17 (ESV)**
+> So faith comes from hearing, and hearing through the word of Christ.
 
 <!-- END: Verse of the Day -->
