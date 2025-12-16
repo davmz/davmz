@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:17 (ESV)**
-> So faith comes from hearing, and hearing through the word of Christ.
+**📖 John 1:12 (ESV)**
+> But to all who did receive him, who believed in his name, he gave the right to become children of God
 
 <!-- END: Verse of the Day -->
