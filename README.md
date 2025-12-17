@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 1:12 (ESV)**
-> But to all who did receive him, who believed in his name, he gave the right to become children of God
+**📖 Ephesians 4:2 (NLT)**
+> Always be humble and gentle. Be patient with each other, making allowance for each other’s faults because of your love.
 
 <!-- END: Verse of the Day -->
