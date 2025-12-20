@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:35 (ESV)**
-> And the angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy—the Son of God.
+**📖 Luke 1:45 (NIV)**
+> Blessed is she who has believed that the Lord would fulfill his promises to her!”
 
 <!-- END: Verse of the Day -->
