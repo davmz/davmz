@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:45 (NIV)**
-> Blessed is she who has believed that the Lord would fulfill his promises to her!”
+**📖 Luke 1:46-47 (NIV)**
+> And Mary said:
+“My soul glorifies the Lord and my spirit rejoices in God my Savior
 
 <!-- END: Verse of the Day -->
