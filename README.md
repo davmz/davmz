@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:46-47 (NIV)**
-> And Mary said:
-“My soul glorifies the Lord and my spirit rejoices in God my Savior
+**📖 Luke 2:7 (ESV)**
+> And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.
 
 <!-- END: Verse of the Day -->
