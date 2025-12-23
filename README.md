@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 2:7 (ESV)**
-> And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.
+**📖 Luke 2:9-10 (NIV)**
+> An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news that will cause great joy for all the people.
 
 <!-- END: Verse of the Day -->
