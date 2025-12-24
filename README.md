@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 2:9-10 (NIV)**
-> An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. But the angel said to them, “Do not be afraid. I bring you good news that will cause great joy for all the people.
+**📖 Luke 2:11 (ESV)**
+> For unto you is born this day in the city of David a Savior, who is Christ the Lord.
 
 <!-- END: Verse of the Day -->
