@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:31-33 (NLT)**
-> You will conceive and give birth to a son, and you will name him Jesus. He will be very great and will be called the Son of the Most High. The Lord God will give him the throne of his ancestor David. And he will reign over Israel forever; his Kingdom will never end!”
+**📖 2 Thessalonians 3:3 (ESV)**
+> But the Lord is faithful. He will establish you and guard you against the evil one.
 
 <!-- END: Verse of the Day -->
