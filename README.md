@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Thessalonians 3:3 (ESV)**
-> But the Lord is faithful. He will establish you and guard you against the evil one.
+**📖 Romans 10:9 (ESV)**
+> because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
 
 <!-- END: Verse of the Day -->
