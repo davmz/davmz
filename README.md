@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:9 (ESV)**
-> because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
+**📖 2 Corinthians 9:6 (NLT)**
+> Remember this—a farmer who plants only a few seeds will get a small crop. But the one who plants generously will get a generous crop.
 
 <!-- END: Verse of the Day -->
