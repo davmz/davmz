@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 9:6 (NLT)**
-> Remember this—a farmer who plants only a few seeds will get a small crop. But the one who plants generously will get a generous crop.
+**📖 1 Kings 8:61 (NIV)**
+> And may your hearts be fully committed to the LORD our God, to live by his decrees and obey his commands, as at this time.”
 
 <!-- END: Verse of the Day -->
