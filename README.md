@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Kings 8:61 (NIV)**
-> And may your hearts be fully committed to the LORD our God, to live by his decrees and obey his commands, as at this time.”
+**📖 2 Corinthians 5:17 (ESV)**
+> Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
 
 <!-- END: Verse of the Day -->
