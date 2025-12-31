@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 5:17 (ESV)**
-> Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
+**📖 John 1:5 (ESV)**
+> The light shines in the darkness, and the darkness has not overcome it.
 
 <!-- END: Verse of the Day -->
