@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 43:18-19 (ESV)**
-> “Remember not the former things,
-nor consider the things of old. Behold, I am doing a new thing;
-now it springs forth, do you not perceive it?
-I will make a way in the wilderness
-and rivers in the desert.
+**📖 2 Corinthians 4:16 (ESV)**
+> So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day.
 
 <!-- END: Verse of the Day -->
