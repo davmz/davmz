@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 4:16 (ESV)**
-> So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day.
+**📖 Mark 2:27 (NIV)**
+> Then he said to them, “The Sabbath was made for man, not man for the Sabbath.
 
 <!-- END: Verse of the Day -->
