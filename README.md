@@ -188,12 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 27:4 (NIV)**
-> One thing I ask from the LORD,
-this only do I seek:
-that I may dwell in the house of the LORD
-all the days of my life,
-to gaze on the beauty of the LORD
-and to seek him in his temple.
+**📖 Romans 12:2 (NIV)**
+> Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.
 
 <!-- END: Verse of the Day -->
