@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:2 (NIV)**
-> Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.
+**📖 Isaiah 60:1 (NIV)**
+> “Arise, shine, for your light has come,
+and the glory of the LORD rises upon you.
 
 <!-- END: Verse of the Day -->
