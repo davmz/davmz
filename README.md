@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 60:1 (NIV)**
-> “Arise, shine, for your light has come,
-and the glory of the LORD rises upon you.
+**📖 1 Corinthians 10:31 (ESV)**
+> So, whether you eat or drink, or whatever you do, do all to the glory of God.
 
 <!-- END: Verse of the Day -->
