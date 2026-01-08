@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 10:31 (ESV)**
-> So, whether you eat or drink, or whatever you do, do all to the glory of God.
+**📖 Hebrews 13:16 (ESV)**
+> Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God.
 
 <!-- END: Verse of the Day -->
