@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 13:16 (ESV)**
-> Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God.
+**📖 John 15:4 (NIV)**
+> Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.
 
 <!-- END: Verse of the Day -->
