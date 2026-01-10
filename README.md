@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:4 (NIV)**
-> Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.
+**📖 Psalm 103:2 (ESV)**
+> Bless the LORD, O my soul,
+and forget not all his benefits
 
 <!-- END: Verse of the Day -->
