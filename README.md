@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 103:2 (ESV)**
-> Bless the LORD, O my soul,
-and forget not all his benefits
+**📖 1 Timothy 4:12 (NIV)**
+> Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity.
 
 <!-- END: Verse of the Day -->
