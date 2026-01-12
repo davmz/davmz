@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 4:12 (NIV)**
-> Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity.
+**📖 Mark 8:35 (ESV)**
+> For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it.
 
 <!-- END: Verse of the Day -->
