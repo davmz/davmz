@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 8:35 (ESV)**
-> For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it.
+**📖 Luke 12:40 (NLT)**
+> You also must be ready all the time, for the Son of Man will come when least expected.”
 
 <!-- END: Verse of the Day -->
