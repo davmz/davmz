@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 22:4 (NIV)**
-> Humility is the fear of the LORD;
-its wages are riches and honor and life.
+**📖 Matthew 6:21 (NIV)**
+> For where your treasure is, there your heart will be also.
 
 <!-- END: Verse of the Day -->
