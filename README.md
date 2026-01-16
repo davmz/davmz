@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:21 (NIV)**
-> For where your treasure is, there your heart will be also.
+**📖 Zephaniah 3:17 (ESV)**
+> The LORD your God is in your midst,
+a mighty one who will save;
+he will rejoice over you with gladness;
+he will quiet you by his love;
+he will exult over you with loud singing.
 
 <!-- END: Verse of the Day -->
