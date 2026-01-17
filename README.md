@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Zephaniah 3:17 (ESV)**
-> The LORD your God is in your midst,
-a mighty one who will save;
-he will rejoice over you with gladness;
-he will quiet you by his love;
-he will exult over you with loud singing.
+**📖 Hebrews 4:10 (ESV)**
+> for whoever has entered God’s rest has also rested from his works as God did from his.
 
 <!-- END: Verse of the Day -->
