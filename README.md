@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 4:10 (ESV)**
-> for whoever has entered God’s rest has also rested from his works as God did from his.
+**📖 1 Corinthians 1:10 (NIV)**
+> I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought.
 
 <!-- END: Verse of the Day -->
