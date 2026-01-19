@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 1:10 (NIV)**
-> I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought.
+**📖 Psalm 133:1 (ESV)**
+> Behold, how good and pleasant it is
+when brothers dwell in unity!
 
 <!-- END: Verse of the Day -->
