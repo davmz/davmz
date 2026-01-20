@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 133:1 (ESV)**
-> Behold, how good and pleasant it is
-when brothers dwell in unity!
+**📖 1 Thessalonians 5:15 (NIV)**
+> Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else.
 
 <!-- END: Verse of the Day -->
