@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Thessalonians 5:15 (NIV)**
-> Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else.
+**📖 Proverbs 18:10 (NLT)**
+> The name of the LORD is a strong fortress;
+the godly run to him and are safe.
 
 <!-- END: Verse of the Day -->
