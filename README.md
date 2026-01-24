@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:1 (NLT)**
-> So now there is no condemnation for those who belong to Christ Jesus.
+**📖 Lamentations 3:25 (NLT)**
+> The LORD is good to those who depend on him,
+to those who search for him.
 
 <!-- END: Verse of the Day -->
