@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Lamentations 3:25 (NLT)**
-> The LORD is good to those who depend on him,
-to those who search for him.
+**📖 1 John 4:15 (NIV)**
+> If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God.
 
 <!-- END: Verse of the Day -->
