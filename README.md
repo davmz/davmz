@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:15 (NIV)**
-> If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God.
+**📖 Psalm 8:3-4 (ESV)**
+> When I look at your heavens, the work of your fingers,
+the moon and the stars, which you have set in place what is man that you are mindful of him,
+and the son of man that you care for him?
 
 <!-- END: Verse of the Day -->
