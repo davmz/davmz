@@ -188,9 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 8:3-4 (ESV)**
-> When I look at your heavens, the work of your fingers,
-the moon and the stars, which you have set in place what is man that you are mindful of him,
-and the son of man that you care for him?
+**📖 Psalms 143:10 (NIV)**
+> Teach me to do your will,
+for you are my God;
+may your good Spirit
+lead me on level ground.
 
 <!-- END: Verse of the Day -->
