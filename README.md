@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 143:10 (NIV)**
-> Teach me to do your will,
-for you are my God;
-may your good Spirit
-lead me on level ground.
+**📖 Philippians 4:6 (NLT)**
+> Don’t worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done.
 
 <!-- END: Verse of the Day -->
