@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:6 (NLT)**
-> Don’t worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done.
+**📖 1 Samuel 2:2 (NLT)**
+> No one is holy like the LORD!
+There is no one besides you;
+there is no Rock like our God.
 
 <!-- END: Verse of the Day -->
