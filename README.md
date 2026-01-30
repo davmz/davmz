@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Samuel 2:2 (NLT)**
-> No one is holy like the LORD!
-There is no one besides you;
-there is no Rock like our God.
+**📖 James 1:22 (NIV)**
+> Do not merely listen to the word, and so deceive yourselves. Do what it says.
 
 <!-- END: Verse of the Day -->
