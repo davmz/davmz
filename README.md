@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 1:22 (NIV)**
-> Do not merely listen to the word, and so deceive yourselves. Do what it says.
+**📖 Hebrews 10:24 (NLT)**
+> Let us think of ways to motivate one another to acts of love and good works.
 
 <!-- END: Verse of the Day -->
