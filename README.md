@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 10:24 (NLT)**
-> Let us think of ways to motivate one another to acts of love and good works.
+**📖 Luke 1:46-47 (NIV)**
+> And Mary said:
+“My soul glorifies the Lord and my spirit rejoices in God my Savior
 
 <!-- END: Verse of the Day -->
