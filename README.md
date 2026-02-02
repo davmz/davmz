@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 1:46-47 (NIV)**
-> And Mary said:
-“My soul glorifies the Lord and my spirit rejoices in God my Savior
+**📖 2 Corinthians 12:10 (ESV)**
+> For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.
 
 <!-- END: Verse of the Day -->
