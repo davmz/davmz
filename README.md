@@ -188,7 +188,12 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 12:10 (ESV)**
-> For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.
+**📖 Psalms 23:4 (NLT)**
+> Even when I walk
+through the darkest valley,
+I will not be afraid,
+for you are close beside me.
+Your rod and your staff
+protect and comfort me.
 
 <!-- END: Verse of the Day -->
