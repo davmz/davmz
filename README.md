@@ -188,12 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 23:4 (NLT)**
-> Even when I walk
-through the darkest valley,
-I will not be afraid,
-for you are close beside me.
-Your rod and your staff
-protect and comfort me.
+**📖 Matthew 7:12 (ESV)**
+> “So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.
 
 <!-- END: Verse of the Day -->
