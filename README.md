@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 7:12 (ESV)**
-> “So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.
+**📖 Proverbs 12:25 (NIV)**
+> Anxiety weighs down the heart,
+but a kind word cheers it up.
 
 <!-- END: Verse of the Day -->
