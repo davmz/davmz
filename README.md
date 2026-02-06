@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 12:25 (NIV)**
-> Anxiety weighs down the heart,
-but a kind word cheers it up.
+**📖 Hebrews 12:1 (NIV)**
+> Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us
 
 <!-- END: Verse of the Day -->
