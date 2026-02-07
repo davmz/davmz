@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 12:1 (NIV)**
-> Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us
+**📖 1 Timothy 4:8 (NLT)**
+> “Physical training is good, but training for godliness is much better, promising benefits in this life and in the life to come.”
 
 <!-- END: Verse of the Day -->
