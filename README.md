@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 4:8 (NLT)**
-> “Physical training is good, but training for godliness is much better, promising benefits in this life and in the life to come.”
+**📖 James 1:2-3 (NLT)**
+> Dear brothers and sisters, when troubles of any kind come your way, consider it an opportunity for great joy. For you know that when your faith is tested, your endurance has a chance to grow.
 
 <!-- END: Verse of the Day -->
