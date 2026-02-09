@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 1:2-3 (NLT)**
-> Dear brothers and sisters, when troubles of any kind come your way, consider it an opportunity for great joy. For you know that when your faith is tested, your endurance has a chance to grow.
+**📖 Psalms 94:19 (NLT)**
+> When doubts filled my mind,
+your comfort gave me renewed hope and cheer.
 
 <!-- END: Verse of the Day -->
