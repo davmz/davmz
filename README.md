@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 94:19 (NLT)**
-> When doubts filled my mind,
-your comfort gave me renewed hope and cheer.
+**📖 Romans 5:3-4 (NIV)**
+> Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance perseverance, character; and character, hope.
 
 <!-- END: Verse of the Day -->
