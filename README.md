@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 5:3-4 (NIV)**
-> Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance perseverance, character; and character, hope.
+**📖 2 Corinthians 9:8 (NIV)**
+> And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.
 
 <!-- END: Verse of the Day -->
