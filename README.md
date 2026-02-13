@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 4:13 (NIV)**
-> I can do all this through him who gives me strength.
+**📖 1 Peter 4:16 (NLT)**
+> But it is no shame to suffer for being a Christian. Praise God for the privilege of being called by his name!
 
 <!-- END: Verse of the Day -->
