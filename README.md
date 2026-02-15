@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:10 (NIV)**
-> Be devoted to one another in love. Honor one another above yourselves.
+**📖 Proverbs 23:24 (NIV)**
+> The father of a righteous child has great joy;
+a man who fathers a wise son rejoices in him.
 
 <!-- END: Verse of the Day -->
