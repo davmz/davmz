@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 23:24 (NIV)**
-> The father of a righteous child has great joy;
-a man who fathers a wise son rejoices in him.
+**📖 2 John 1:6 (NLT)**
+> Love means doing what God has commanded us, and he has commanded us to love one another, just as you heard from the beginning.
 
 <!-- END: Verse of the Day -->
