@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 John 1:6 (NLT)**
-> Love means doing what God has commanded us, and he has commanded us to love one another, just as you heard from the beginning.
+**📖 Habakkuk 2:14 (NIV)**
+> For the earth will be filled with the knowledge of the glory of the LORD
+as the waters cover the sea.
 
 <!-- END: Verse of the Day -->
