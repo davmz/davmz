@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Habakkuk 2:14 (NIV)**
-> For the earth will be filled with the knowledge of the glory of the LORD
-as the waters cover the sea.
+**📖 2 Timothy 4:7 (NLT)**
+> I have fought the good fight, I have finished the race, and I have remained faithful.
 
 <!-- END: Verse of the Day -->
