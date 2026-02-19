@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Timothy 4:7 (NLT)**
-> I have fought the good fight, I have finished the race, and I have remained faithful.
+**📖 Hebrews 12:11 (NIV)**
+> No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it.
 
 <!-- END: Verse of the Day -->
