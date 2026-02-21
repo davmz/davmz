@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 20:24 (NIV)**
-> However, I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me—the task of testifying to the good news of God’s grace.
+**📖 John 14:6 (NIV)**
+> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
 
 <!-- END: Verse of the Day -->
