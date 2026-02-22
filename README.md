@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 14:6 (NIV)**
-> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.
+**📖 1 Chronicles 16:11 (NLT)**
+> Search for the LORD and for his strength;
+continually seek him.
 
 <!-- END: Verse of the Day -->
