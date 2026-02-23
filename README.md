@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Chronicles 16:11 (NLT)**
-> Search for the LORD and for his strength;
-continually seek him.
+**📖 Ecclesiastes 12:13 (NLT)**
+> That’s the whole story. Here now is my final conclusion: Fear God and obey his commands, for this is everyone’s duty.
 
 <!-- END: Verse of the Day -->
