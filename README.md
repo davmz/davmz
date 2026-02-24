@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ecclesiastes 12:13 (NLT)**
-> That’s the whole story. Here now is my final conclusion: Fear God and obey his commands, for this is everyone’s duty.
+**📖 Matthew 13:44 (ESV)**
+> “The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
 
 <!-- END: Verse of the Day -->
