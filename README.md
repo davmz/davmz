@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 13:44 (ESV)**
-> “The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
+**📖 Isaiah 25:1 (NIV)**
+> LORD, you are my God;
+I will exalt you and praise your name,
+for in perfect faithfulness
+you have done wonderful things,
+things planned long ago.
 
 <!-- END: Verse of the Day -->
