@@ -188,11 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 25:1 (NIV)**
-> LORD, you are my God;
-I will exalt you and praise your name,
-for in perfect faithfulness
-you have done wonderful things,
-things planned long ago.
+**📖 Psalm 37:4 (ESV)**
+> Delight yourself in the LORD,
+and he will give you the desires of your heart.
 
 <!-- END: Verse of the Day -->
