@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 37:4 (ESV)**
-> Delight yourself in the LORD,
-and he will give you the desires of your heart.
+**📖 Ephesians 5:1 (NIV)**
+> Follow God’s example, therefore, as dearly loved children
 
 <!-- END: Verse of the Day -->
