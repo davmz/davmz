@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 18:24 (NIV)**
-> One who has unreliable friends soon comes to ruin,
-but there is a friend who sticks closer than a brother.
+**📖 2 Peter 3:9 (NIV)**
+> The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.
 
 <!-- END: Verse of the Day -->
