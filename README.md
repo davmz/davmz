@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Peter 3:9 (NIV)**
-> The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.
+**📖 Romans 12:21 (NIV)**
+> Do not be overcome by evil, but overcome evil with good.
 
 <!-- END: Verse of the Day -->
