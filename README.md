@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Joshua 1:9 (ESV)**
-> Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go.”
+**📖 Psalms 143:8 (NIV)**
+> Let the morning bring me word of your unfailing love,
+for I have put my trust in you.
+Show me the way I should go,
+for to you I entrust my life.
 
 <!-- END: Verse of the Day -->
