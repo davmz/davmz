@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 143:8 (NIV)**
-> Let the morning bring me word of your unfailing love,
-for I have put my trust in you.
-Show me the way I should go,
-for to you I entrust my life.
+**📖 Matthew 6:3 (NLT)**
+> But when you give to someone in need, don’t let your left hand know what your right hand is doing.
 
 <!-- END: Verse of the Day -->
