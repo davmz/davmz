@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:3 (NLT)**
-> But when you give to someone in need, don’t let your left hand know what your right hand is doing.
+**📖 2 Corinthians 4:18 (NIV)**
+> So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.
 
 <!-- END: Verse of the Day -->
