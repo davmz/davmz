@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 4:18 (NIV)**
-> So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.
+**📖 2 Thessalonians 3:3 (ESV)**
+> But the Lord is faithful. He will establish you and guard you against the evil one.
 
 <!-- END: Verse of the Day -->
