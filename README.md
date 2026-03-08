@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Thessalonians 3:3 (ESV)**
-> But the Lord is faithful. He will establish you and guard you against the evil one.
+**📖 Proverbs 31:25-26 (NIV)**
+> She is clothed with strength and dignity;
+she can laugh at the days to come. She speaks with wisdom,
+and faithful instruction is on her tongue.
 
 <!-- END: Verse of the Day -->
