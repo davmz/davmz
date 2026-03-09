@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 31:25-26 (NIV)**
-> She is clothed with strength and dignity;
-she can laugh at the days to come. She speaks with wisdom,
-and faithful instruction is on her tongue.
+**📖 1 Peter 5:7 (NLT)**
+> Give all your worries and cares to God, for he cares about you.
 
 <!-- END: Verse of the Day -->
