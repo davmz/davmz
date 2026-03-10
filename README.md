@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 5:7 (NLT)**
-> Give all your worries and cares to God, for he cares about you.
+**📖 Proverbs 31:30 (NLT)**
+> Charm is deceptive, and beauty does not last;
+but a woman who fears the LORD will be greatly praised.
 
 <!-- END: Verse of the Day -->
