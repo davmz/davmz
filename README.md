@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 31:30 (NLT)**
-> Charm is deceptive, and beauty does not last;
-but a woman who fears the LORD will be greatly praised.
+**📖 John 10:11 (NIV)**
+> “I am the good shepherd. The good shepherd lays down his life for the sheep.
 
 <!-- END: Verse of the Day -->
