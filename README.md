@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 5:1 (ESV)**
-> Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.
+**📖 Genesis 1:1 (NIV)**
+> In the beginning God created the heavens and the earth.
 
 <!-- END: Verse of the Day -->
