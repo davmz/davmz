@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Genesis 1:1 (NIV)**
-> In the beginning God created the heavens and the earth.
+**📖 Esther 4:14 (NLT)**
+> If you keep quiet at a time like this, deliverance and relief for the Jews will arise from some other place, but you and your relatives will die. Who knows if perhaps you were made queen for just such a time as this?”
 
 <!-- END: Verse of the Day -->
