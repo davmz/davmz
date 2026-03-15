@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Esther 4:14 (NLT)**
-> If you keep quiet at a time like this, deliverance and relief for the Jews will arise from some other place, but you and your relatives will die. Who knows if perhaps you were made queen for just such a time as this?”
+**📖 James 5:13 (NIV)**
+> Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise.
 
 <!-- END: Verse of the Day -->
