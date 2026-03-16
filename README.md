@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 5:13 (NIV)**
-> Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise.
+**📖 Psalms 105:1 (NIV)**
+> Give praise to the LORD, proclaim his name;
+make known among the nations what he has done.
 
 <!-- END: Verse of the Day -->
