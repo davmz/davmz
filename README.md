@@ -188,8 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 105:1 (NIV)**
-> Give praise to the LORD, proclaim his name;
-make known among the nations what he has done.
+**📖 Proverbs 3:5-6 (NIV)**
+> Trust in the LORD with all your heart
+and lean not on your own understanding in all your ways submit to him,
+and he will make your paths straight.
 
 <!-- END: Verse of the Day -->
