@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 3:5-6 (NIV)**
-> Trust in the LORD with all your heart
-and lean not on your own understanding in all your ways submit to him,
-and he will make your paths straight.
+**📖 1 John 4:4 (NIV)**
+> You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.
 
 <!-- END: Verse of the Day -->
