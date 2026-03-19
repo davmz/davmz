@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:4 (NIV)**
-> You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.
+**📖 Psalm 23:6 (ESV)**
+> Surely goodness and mercy shall follow me
+all the days of my life,
+and I shall dwell in the house of the LORD
+forever.
 
 <!-- END: Verse of the Day -->
