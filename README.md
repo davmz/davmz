@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 23:6 (ESV)**
-> Surely goodness and mercy shall follow me
-all the days of my life,
-and I shall dwell in the house of the LORD
-forever.
+**📖 Hebrews 4:9 (NIV)**
+> There remains, then, a Sabbath-rest for the people of God
 
 <!-- END: Verse of the Day -->
