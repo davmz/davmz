@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 56:3 (NLT)**
-> But when I am afraid,
-I will put my trust in you.
+**📖 2 Corinthians 7:10 (NIV)**
+> Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
 
 <!-- END: Verse of the Day -->
