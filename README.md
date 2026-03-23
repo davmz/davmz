@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 7:10 (NIV)**
-> Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
+**📖 Psalms 42:1 (NIV)**
+> As the deer pants for streams of water,
+so my soul pants for you, my God.
 
 <!-- END: Verse of the Day -->
