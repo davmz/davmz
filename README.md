@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 42:1 (NIV)**
-> As the deer pants for streams of water,
-so my soul pants for you, my God.
+**📖 Matthew 7:8 (NIV)**
+> For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
 
 <!-- END: Verse of the Day -->
