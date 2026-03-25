@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 7:8 (NIV)**
-> For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+**📖 John 7:38 (NLT)**
+> Anyone who believes in me may come and drink! For the Scriptures declare, ‘Rivers of living water will flow from his heart.’”
 
 <!-- END: Verse of the Day -->
