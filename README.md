@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 29:13 (NIV)**
-> You will seek me and find me when you seek me with all your heart.
+**📖 Romans 15:5 (ESV)**
+> May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus
 
 <!-- END: Verse of the Day -->
