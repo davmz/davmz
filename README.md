@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 15:5 (ESV)**
-> May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus
+**📖 Psalms 3:3 (NLT)**
+> But you, O LORD, are a shield around me;
+you are my glory, the one who holds my head high.
 
 <!-- END: Verse of the Day -->
