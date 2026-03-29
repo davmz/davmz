@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 3:3 (NLT)**
-> But you, O LORD, are a shield around me;
-you are my glory, the one who holds my head high.
+**📖 Luke 19:38 (NIV)**
+> “Blessed is the king who comes in the name of the Lord!”
+“Peace in heaven and glory in the highest!”
 
 <!-- END: Verse of the Day -->
