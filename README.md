@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 19:38 (NIV)**
-> “Blessed is the king who comes in the name of the Lord!”
-“Peace in heaven and glory in the highest!”
+**📖 John 1:29 (NLT)**
+> The next day John saw Jesus coming toward him and said, “Look! The Lamb of God who takes away the sin of the world!
 
 <!-- END: Verse of the Day -->
