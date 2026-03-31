@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 1:29 (NLT)**
-> The next day John saw Jesus coming toward him and said, “Look! The Lamb of God who takes away the sin of the world!
+**📖 Matthew 20:28 (ESV)**
+> even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 
 <!-- END: Verse of the Day -->
