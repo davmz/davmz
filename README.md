@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 20:28 (ESV)**
-> even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
+**📖 Hebrews 12:2 (NLT)**
+> We do this by keeping our eyes on Jesus, the champion who initiates and perfects our faith. Because of the joy awaiting him, he endured the cross, disregarding its shame. Now he is seated in the place of honor beside God’s throne.
 
 <!-- END: Verse of the Day -->
