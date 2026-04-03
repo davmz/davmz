@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 16:33 (ESV)**
-> I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”
+**📖 Isaiah 53:5 (NIV)**
+> But he was pierced for our transgressions,
+he was crushed for our iniquities;
+the punishment that brought us peace was on him,
+and by his wounds we are healed.
 
 <!-- END: Verse of the Day -->
