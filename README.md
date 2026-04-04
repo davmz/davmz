@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 53:5 (NIV)**
-> But he was pierced for our transgressions,
-he was crushed for our iniquities;
-the punishment that brought us peace was on him,
-and by his wounds we are healed.
+**📖 1 John 3:16 (NIV)**
+> This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters.
 
 <!-- END: Verse of the Day -->
