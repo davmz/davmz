@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 3:16 (NIV)**
-> This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters.
+**📖 Matthew 28:6 (NIV)**
+> He is not here; he has risen, just as he said. Come and see the place where he lay.
 
 <!-- END: Verse of the Day -->
