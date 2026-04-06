@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 28:6 (NIV)**
-> He is not here; he has risen, just as he said. Come and see the place where he lay.
+**📖 Matthew 28:19 (NLT)**
+> Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.
 
 <!-- END: Verse of the Day -->
