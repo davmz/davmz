@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 28:19 (NLT)**
-> Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.
+**📖 John 5:24 (NLT)**
+> “I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life.
 
 <!-- END: Verse of the Day -->
