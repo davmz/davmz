@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 5:24 (NLT)**
-> “I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life.
+**📖 Romans 10:17 (NIV)**
+> Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.
 
 <!-- END: Verse of the Day -->
