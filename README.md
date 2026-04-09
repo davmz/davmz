@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:17 (NIV)**
-> Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.
+**📖 Acts 4:12 (NIV)**
+> Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”
 
 <!-- END: Verse of the Day -->
