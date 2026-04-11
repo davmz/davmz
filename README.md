@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 145:18 (ESV)**
-> The LORD is near to all who call on him,
-to all who call on him in truth.
+**📖 1 Corinthians 3:16 (NIV)**
+> Don’t you know that you yourselves are God’s temple and that God’s Spirit dwells in your midst?
 
 <!-- END: Verse of the Day -->
