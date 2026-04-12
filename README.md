@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 3:16 (NIV)**
-> Don’t you know that you yourselves are God’s temple and that God’s Spirit dwells in your midst?
+**📖 Matthew 5:16 (NIV)**
+> In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
 
 <!-- END: Verse of the Day -->
