@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:16 (NIV)**
-> In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+**📖 John 3:16 (NIV)**
+> For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
 
 <!-- END: Verse of the Day -->
