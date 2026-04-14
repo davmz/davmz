@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 3:16 (NIV)**
-> For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+**📖 Isaiah 53:6 (ESV)**
+> All we like sheep have gone astray;
+we have turned—every one—to his own way;
+and the LORD has laid on him
+the iniquity of us all.
 
 <!-- END: Verse of the Day -->
