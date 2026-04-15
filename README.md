@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 53:6 (ESV)**
-> All we like sheep have gone astray;
-we have turned—every one—to his own way;
-and the LORD has laid on him
-the iniquity of us all.
+**📖 Mark 13:33 (ESV)**
+> Be on guard, keep awake. For you do not know when the time will come.
 
 <!-- END: Verse of the Day -->
