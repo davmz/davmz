@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 13:33 (ESV)**
-> Be on guard, keep awake. For you do not know when the time will come.
+**📖 2 Corinthians 5:21 (NIV)**
+> God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
 
 <!-- END: Verse of the Day -->
