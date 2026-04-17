@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 5:21 (NIV)**
-> God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
+**📖 1 Peter 5:8 (NIV)**
+> Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.
 
 <!-- END: Verse of the Day -->
