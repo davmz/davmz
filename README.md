@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 55:6 (NIV)**
-> Seek the LORD while he may be found;
-call on him while he is near.
+**📖 2 Timothy 1:7 (ESV)**
+> for God gave us a spirit not of fear but of power and love and self-control.
 
 <!-- END: Verse of the Day -->
