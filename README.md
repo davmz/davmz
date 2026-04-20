@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Timothy 1:7 (ESV)**
-> for God gave us a spirit not of fear but of power and love and self-control.
+**📖 Matthew 16:24 (ESV)**
+> Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me.
 
 <!-- END: Verse of the Day -->
