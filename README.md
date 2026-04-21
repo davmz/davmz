@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 16:24 (ESV)**
-> Then Jesus told his disciples, “If anyone would come after me, let him deny himself and take up his cross and follow me.
+**📖 Romans 1:17 (ESV)**
+> For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”
 
 <!-- END: Verse of the Day -->
