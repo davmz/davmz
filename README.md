@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 1:17 (ESV)**
-> For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”
+**📖 John 3:17 (NLT)**
+> God sent his Son into the world not to judge the world, but to save the world through him.
 
 <!-- END: Verse of the Day -->
