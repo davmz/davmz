@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 3:17 (NLT)**
-> God sent his Son into the world not to judge the world, but to save the world through him.
+**📖 Zechariah 14:9 (NIV)**
+> The LORD will be king over the whole earth. On that day there will be one LORD, and his name the only name.
 
 <!-- END: Verse of the Day -->
