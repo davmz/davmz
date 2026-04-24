@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Zechariah 14:9 (NIV)**
-> The LORD will be king over the whole earth. On that day there will be one LORD, and his name the only name.
+**📖 2 Corinthians 5:18 (NIV)**
+> All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation
 
 <!-- END: Verse of the Day -->
