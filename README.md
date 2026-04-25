@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 5:18 (NIV)**
-> All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation
+**📖 Romans 3:23-24 (ESV)**
+> for all have sinned and fall short of the glory of God and are justified by his grace as a gift, through the redemption that is in Christ Jesus
 
 <!-- END: Verse of the Day -->
