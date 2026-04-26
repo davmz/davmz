@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 3:23-24 (ESV)**
-> for all have sinned and fall short of the glory of God and are justified by his grace as a gift, through the redemption that is in Christ Jesus
+**📖 Psalms 139:14 (NIV)**
+> I praise you because I am fearfully and wonderfully made;
+your works are wonderful,
+I know that full well.
 
 <!-- END: Verse of the Day -->
