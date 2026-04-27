@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 139:14 (NIV)**
-> I praise you because I am fearfully and wonderfully made;
-your works are wonderful,
-I know that full well.
+**📖 Matthew 5:14 (NLT)**
+> “You are the light of the world—like a city on a hilltop that cannot be hidden.
 
 <!-- END: Verse of the Day -->
