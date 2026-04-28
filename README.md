@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:14 (NLT)**
-> “You are the light of the world—like a city on a hilltop that cannot be hidden.
+**📖 1 John 4:9 (NLT)**
+> God showed how much he loved us by sending his one and only Son into the world so that we might have eternal life through him.
 
 <!-- END: Verse of the Day -->
