@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 4:9 (NLT)**
-> God showed how much he loved us by sending his one and only Son into the world so that we might have eternal life through him.
+**📖 John 1:12 (NIV)**
+> Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God
 
 <!-- END: Verse of the Day -->
