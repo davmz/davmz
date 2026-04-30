@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 1:12 (NIV)**
-> Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God
+**📖 Acts 10:43 (NIV)**
+> All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”
 
 <!-- END: Verse of the Day -->
