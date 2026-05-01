@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 10:43 (NIV)**
-> All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”
+**📖 Galatians 5:25 (NIV)**
+> Since we live by the Spirit, let us keep in step with the Spirit.
 
 <!-- END: Verse of the Day -->
