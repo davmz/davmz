@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:25 (NIV)**
-> Since we live by the Spirit, let us keep in step with the Spirit.
+**📖 Ezekiel 36:26 (NIV)**
+> I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.
 
 <!-- END: Verse of the Day -->
