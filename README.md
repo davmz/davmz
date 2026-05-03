@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ezekiel 36:26 (NIV)**
-> I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.
+**📖 Romans 1:16 (ESV)**
+> For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
 
 <!-- END: Verse of the Day -->
