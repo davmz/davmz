@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 9:37-38 (ESV)**
-> Then he said to his disciples, “The harvest is plentiful, but the laborers are few therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+**📖 John 8:12 (ESV)**
+> Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”
 
 <!-- END: Verse of the Day -->
