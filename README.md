@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 2:38 (ESV)**
-> And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.
+**📖 Romans 10:13 (NLT)**
+> For “Everyone who calls on the name of the LORD will be saved.”
 
 <!-- END: Verse of the Day -->
