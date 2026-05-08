@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:13 (NLT)**
-> For “Everyone who calls on the name of the LORD will be saved.”
+**📖 1 Corinthians 3:7 (NIV)**
+> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
 
 <!-- END: Verse of the Day -->
