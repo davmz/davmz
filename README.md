@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 3:7 (NIV)**
-> So neither the one who plants nor the one who waters is anything, but only God, who makes things grow.
+**📖 John 20:21 (NLT)**
+> Again he said, “Peace be with you. As the Father has sent me, so I am sending you.”
 
 <!-- END: Verse of the Day -->
