@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 20:21 (NLT)**
-> Again he said, “Peace be with you. As the Father has sent me, so I am sending you.”
+**📖 Psalm 32:8 (ESV)**
+> I will instruct you and teach you in the way you should go;
+I will counsel you with my eye upon you.
 
 <!-- END: Verse of the Day -->
