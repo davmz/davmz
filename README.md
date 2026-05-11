@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 32:8 (ESV)**
-> I will instruct you and teach you in the way you should go;
-I will counsel you with my eye upon you.
+**📖 Mark 16:15 (ESV)**
+> And he said to them, “Go into all the world and proclaim the gospel to the whole creation.
 
 <!-- END: Verse of the Day -->
