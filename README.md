@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Mark 16:15 (ESV)**
-> And he said to them, “Go into all the world and proclaim the gospel to the whole creation.
+**📖 Romans 10:9 (NIV)**
+> If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
 
 <!-- END: Verse of the Day -->
