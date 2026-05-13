@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 10:9 (NIV)**
-> If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
+**📖 Proverbs 13:20 (NLT)**
+> Walk with the wise and become wise;
+associate with fools and get in trouble.
 
 <!-- END: Verse of the Day -->
