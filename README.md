@@ -188,8 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 13:20 (NLT)**
-> Walk with the wise and become wise;
-associate with fools and get in trouble.
+**📖 Isaiah 12:2 (ESV)**
+> “Behold, God is my salvation;
+I will trust, and will not be afraid;
+for the LORD GOD is my strength and my song,
+and he has become my salvation.”
 
 <!-- END: Verse of the Day -->
