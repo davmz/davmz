@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 12:2 (ESV)**
-> “Behold, God is my salvation;
-I will trust, and will not be afraid;
-for the LORD GOD is my strength and my song,
-and he has become my salvation.”
+**📖 Matthew 10:20 (ESV)**
+> For it is not you who speak, but the Spirit of your Father speaking through you.
 
 <!-- END: Verse of the Day -->
