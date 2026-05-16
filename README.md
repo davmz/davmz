@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 10:20 (ESV)**
-> For it is not you who speak, but the Spirit of your Father speaking through you.
+**📖 Romans 5:8 (NIV)**
+> But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
 
 <!-- END: Verse of the Day -->
