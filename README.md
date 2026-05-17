@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 5:8 (NIV)**
-> But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
+**📖 John 16:13 (ESV)**
+> When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.
 
 <!-- END: Verse of the Day -->
