@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 3:15 (NIV)**
-> But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect
+**📖 Ephesians 2:8-9 (ESV)**
+> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God not a result of works, so that no one may boast.
 
 <!-- END: Verse of the Day -->
