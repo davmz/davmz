@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 2:8-9 (ESV)**
-> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God not a result of works, so that no one may boast.
+**📖 Galatians 5:16 (NIV)**
+> So I say, walk by the Spirit, and you will not gratify the desires of the flesh.
 
 <!-- END: Verse of the Day -->
