@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Galatians 5:16 (NIV)**
-> So I say, walk by the Spirit, and you will not gratify the desires of the flesh.
+**📖 Proverbs 29:25 (ESV)**
+> The fear of man lays a snare,
+but whoever trusts in the LORD is safe.
 
 <!-- END: Verse of the Day -->
