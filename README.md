@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 29:25 (ESV)**
-> The fear of man lays a snare,
-but whoever trusts in the LORD is safe.
+**📖 Romans 10:14 (ESV)**
+> How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching?
 
 <!-- END: Verse of the Day -->
