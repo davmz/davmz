@@ -188,7 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Acts 4:31 (NIV)**
-> After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly.
+**📖 Psalms 23:3 (NIV)**
+> he refreshes my soul.
+He guides me along the right paths
+for his name’s sake.
 
 <!-- END: Verse of the Day -->
