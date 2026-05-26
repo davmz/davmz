@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 23:3 (NIV)**
-> he refreshes my soul.
-He guides me along the right paths
-for his name’s sake.
+**📖 Philippians 2:5 (NLT)**
+> You must have the same attitude that Christ Jesus had.
 
 <!-- END: Verse of the Day -->
