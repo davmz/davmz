@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Philippians 2:5 (NLT)**
-> You must have the same attitude that Christ Jesus had.
+**📖 2 Corinthians 9:7 (NIV)**
+> Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.
 
 <!-- END: Verse of the Day -->
