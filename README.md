@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 9:7 (NIV)**
-> Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.
+**📖 Proverbs 9:10 (NIV)**
+> The fear of the LORD is the beginning of wisdom,
+and knowledge of the Holy One is understanding.
 
 <!-- END: Verse of the Day -->
