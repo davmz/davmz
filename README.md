@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 9:10 (NIV)**
-> The fear of the LORD is the beginning of wisdom,
-and knowledge of the Holy One is understanding.
+**📖 John 15:2 (NLT)**
+> He cuts off every branch of mine that doesn’t produce fruit, and he prunes the branches that do bear fruit so they will produce even more.
 
 <!-- END: Verse of the Day -->
