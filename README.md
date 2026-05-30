@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:2 (NLT)**
-> He cuts off every branch of mine that doesn’t produce fruit, and he prunes the branches that do bear fruit so they will produce even more.
+**📖 Isaiah 1:17 (NIV)**
+> Learn to do right; seek justice.
+Defend the oppressed.
+Take up the cause of the fatherless;
+plead the case of the widow.
 
 <!-- END: Verse of the Day -->
