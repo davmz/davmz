@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 1:17 (NIV)**
-> Learn to do right; seek justice.
-Defend the oppressed.
-Take up the cause of the fatherless;
-plead the case of the widow.
+**📖 2 Corinthians 12:9 (ESV)**
+> But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
 
 <!-- END: Verse of the Day -->
