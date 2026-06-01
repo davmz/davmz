@@ -188,7 +188,11 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 12:9 (ESV)**
-> But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
+**📖 Psalms 42:11 (NIV)**
+> Why, my soul, are you downcast?
+Why so disturbed within me?
+Put your hope in God,
+for I will yet praise him,
+my Savior and my God.
 
 <!-- END: Verse of the Day -->
