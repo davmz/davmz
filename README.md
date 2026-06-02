@@ -188,11 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 42:11 (NIV)**
-> Why, my soul, are you downcast?
-Why so disturbed within me?
-Put your hope in God,
-for I will yet praise him,
-my Savior and my God.
+**📖 Matthew 5:3 (NLT)**
+> “God blesses those who are poor and realize their need for him,
+for the Kingdom of Heaven is theirs.
 
 <!-- END: Verse of the Day -->
