@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:3 (NLT)**
-> “God blesses those who are poor and realize their need for him,
-for the Kingdom of Heaven is theirs.
+**📖 Matthew 5:4 (NIV)**
+> Blessed are those who mourn,
+for they will be comforted.
 
 <!-- END: Verse of the Day -->
