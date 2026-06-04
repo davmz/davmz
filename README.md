@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:4 (NIV)**
-> Blessed are those who mourn,
-for they will be comforted.
+**📖 Matthew 5:5 (NIV)**
+> Blessed are the meek,
+for they will inherit the earth.
 
 <!-- END: Verse of the Day -->
