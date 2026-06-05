@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:5 (NIV)**
-> Blessed are the meek,
-for they will inherit the earth.
+**📖 Matthew 5:6 (NLT)**
+> God blesses those who hunger and thirst for justice,
+for they will be satisfied.
 
 <!-- END: Verse of the Day -->
