@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:7 (NLT)**
-> God blesses those who are merciful,
-for they will be shown mercy.
+**📖 Matthew 5:8 (NLT)**
+> God blesses those whose hearts are pure,
+for they will see God.
 
 <!-- END: Verse of the Day -->
