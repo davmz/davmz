@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:8 (NLT)**
-> God blesses those whose hearts are pure,
-for they will see God.
+**📖 Matthew 5:9 (NLT)**
+> God blesses those who work for peace,
+for they will be called the children of God.
 
 <!-- END: Verse of the Day -->
