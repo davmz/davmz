@@ -188,8 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:9 (NLT)**
-> God blesses those who work for peace,
-for they will be called the children of God.
+**📖 Matthew 5:10 (NIV)**
+> Blessed are those who are persecuted because of righteousness,
+for theirs is the kingdom of heaven.
 
 <!-- END: Verse of the Day -->
