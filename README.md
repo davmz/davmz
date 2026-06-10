@@ -188,8 +188,9 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 5:10 (NIV)**
-> Blessed are those who are persecuted because of righteousness,
-for theirs is the kingdom of heaven.
+**📖 Psalms 27:14 (NIV)**
+> Wait for the LORD;
+be strong and take heart
+and wait for the LORD.
 
 <!-- END: Verse of the Day -->
