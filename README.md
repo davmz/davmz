@@ -188,9 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 27:14 (NIV)**
-> Wait for the LORD;
-be strong and take heart
-and wait for the LORD.
+**📖 James 1:5 (ESV)**
+> If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
 
 <!-- END: Verse of the Day -->
