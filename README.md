@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 James 1:5 (ESV)**
-> If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+**📖 1 Corinthians 13:4 (ESV)**
+> Love is patient and kind; love does not envy or boast; it is not arrogant
 
 <!-- END: Verse of the Day -->
