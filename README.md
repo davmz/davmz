@@ -188,7 +188,13 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 13:4 (ESV)**
-> Love is patient and kind; love does not envy or boast; it is not arrogant
+**📖 Isaiah 43:2 (NIV)**
+> When you pass through the waters,
+I will be with you;
+and when you pass through the rivers,
+they will not sweep over you.
+When you walk through the fire,
+you will not be burned;
+the flames will not set you ablaze.
 
 <!-- END: Verse of the Day -->
