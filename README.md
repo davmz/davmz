@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:31 (NIV)**
-> What, then, shall we say in response to these things? If God is for us, who can be against us?
+**📖 1 Peter 4:8 (ESV)**
+> Above all, keep loving one another earnestly, since love covers a multitude of sins.
 
 <!-- END: Verse of the Day -->
