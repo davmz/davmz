@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Peter 4:8 (ESV)**
-> Above all, keep loving one another earnestly, since love covers a multitude of sins.
+**📖 Micah 6:8 (ESV)**
+> He has told you, O man, what is good;
+and what does the LORD require of you
+but to do justice, and to love kindness,
+and to walk humbly with your God?
 
 <!-- END: Verse of the Day -->
