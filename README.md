@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Micah 6:8 (ESV)**
-> He has told you, O man, what is good;
-and what does the LORD require of you
-but to do justice, and to love kindness,
-and to walk humbly with your God?
+**📖 John 15:12 (NLT)**
+> This is my commandment: Love each other in the same way I have loved you.
 
 <!-- END: Verse of the Day -->
