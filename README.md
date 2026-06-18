@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 John 15:12 (NLT)**
-> This is my commandment: Love each other in the same way I have loved you.
+**📖 1 John 2:6 (NIV)**
+> Whoever claims to live in him must live as Jesus did.
 
 <!-- END: Verse of the Day -->
