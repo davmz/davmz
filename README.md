@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 2 Corinthians 3:17 (NIV)**
-> Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
+**📖 1 John 1:9 (ESV)**
+> If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
 
 <!-- END: Verse of the Day -->
