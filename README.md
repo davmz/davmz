@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 John 1:9 (ESV)**
-> If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
+**📖 Psalms 103:13 (NIV)**
+> As a father has compassion on his children,
+so the LORD has compassion on those who fear him
 
 <!-- END: Verse of the Day -->
