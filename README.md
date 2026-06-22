@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 103:13 (NIV)**
-> As a father has compassion on his children,
-so the LORD has compassion on those who fear him
+**📖 Matthew 6:33 (NLT)**
+> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need.
 
 <!-- END: Verse of the Day -->
