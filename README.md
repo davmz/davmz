@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:33 (NLT)**
-> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need.
+**📖 Amos 5:24 (NIV)**
+> But let justice roll on like a river,
+righteousness like a never-failing stream!
 
 <!-- END: Verse of the Day -->
