@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Amos 5:24 (NIV)**
-> But let justice roll on like a river,
-righteousness like a never-failing stream!
+**📖 Romans 8:18 (NIV)**
+> I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.
 
 <!-- END: Verse of the Day -->
