@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 8:18 (NIV)**
-> I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.
+**📖 Psalms 34:18 (NIV)**
+> The LORD is close to the brokenhearted
+and saves those who are crushed in spirit.
 
 <!-- END: Verse of the Day -->
