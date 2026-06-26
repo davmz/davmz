@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:18 (NIV)**
-> The LORD is close to the brokenhearted
-and saves those who are crushed in spirit.
+**📖 Colossians 3:2 (ESV)**
+> Set your minds on things that are above, not on things that are on earth.
 
 <!-- END: Verse of the Day -->
