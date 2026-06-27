@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 3:2 (ESV)**
-> Set your minds on things that are above, not on things that are on earth.
+**📖 James 4:7 (NIV)**
+> Submit yourselves, then, to God. Resist the devil, and he will flee from you.
 
 <!-- END: Verse of the Day -->
