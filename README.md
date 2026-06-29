@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 2:10 (NLT)**
-> For we are God’s masterpiece. He has created us anew in Christ Jesus, so we can do the good things he planned for us long ago.
+**📖 Psalm 4:8 (ESV)**
+> In peace I will both lie down and sleep;
+for you alone, O LORD, make me dwell in safety.
 
 <!-- END: Verse of the Day -->
