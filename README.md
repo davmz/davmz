@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalm 4:8 (ESV)**
-> In peace I will both lie down and sleep;
-for you alone, O LORD, make me dwell in safety.
+**📖 Luke 6:28 (NIV)**
+> bless those who curse you, pray for those who mistreat you.
 
 <!-- END: Verse of the Day -->
