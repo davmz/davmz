@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 6:28 (NIV)**
-> bless those who curse you, pray for those who mistreat you.
+**📖 Romans 12:12 (NIV)**
+> Be joyful in hope, patient in affliction, faithful in prayer.
 
 <!-- END: Verse of the Day -->
