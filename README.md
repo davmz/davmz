@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:12 (NIV)**
-> Be joyful in hope, patient in affliction, faithful in prayer.
+**📖 Isaiah 26:4 (NIV)**
+> Trust in the LORD forever,
+for the LORD, the LORD himself, is the Rock eternal.
 
 <!-- END: Verse of the Day -->
