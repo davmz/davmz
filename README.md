@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 26:4 (NIV)**
-> Trust in the LORD forever,
-for the LORD, the LORD himself, is the Rock eternal.
+**📖 Hebrews 12:14 (NIV)**
+> Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord.
 
 <!-- END: Verse of the Day -->
