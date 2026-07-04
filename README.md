@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Hebrews 12:14 (NIV)**
-> Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord.
+**📖 Galatians 5:13 (NIV)**
+> You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.
 
 <!-- END: Verse of the Day -->
