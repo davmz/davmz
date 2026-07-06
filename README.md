@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 9:24 (NIV)**
-> For whoever wants to save their life will lose it, but whoever loses their life for me will save it.
+**📖 Proverbs 19:17 (NIV)**
+> Whoever is kind to the poor lends to the LORD,
+and he will reward them for what they have done.
 
 <!-- END: Verse of the Day -->
