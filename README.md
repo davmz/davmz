@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 19:17 (NIV)**
-> Whoever is kind to the poor lends to the LORD,
-and he will reward them for what they have done.
+**📖 Matthew 19:26 (NLT)**
+> Jesus looked at them intently and said, “Humanly speaking, it is impossible. But with God everything is possible.”
 
 <!-- END: Verse of the Day -->
