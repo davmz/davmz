@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 19:26 (NLT)**
-> Jesus looked at them intently and said, “Humanly speaking, it is impossible. But with God everything is possible.”
+**📖 Genesis 2:3 (NIV)**
+> Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
 
 <!-- END: Verse of the Day -->
