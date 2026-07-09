@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Genesis 2:3 (NIV)**
-> Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
+**📖 1 Timothy 6:12 (ESV)**
+> Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.
 
 <!-- END: Verse of the Day -->
