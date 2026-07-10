@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Timothy 6:12 (ESV)**
-> Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.
+**📖 Matthew 18:20 (ESV)**
+> For where two or three are gathered in my name, there am I among them.”
 
 <!-- END: Verse of the Day -->
