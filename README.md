@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 18:20 (ESV)**
-> For where two or three are gathered in my name, there am I among them.”
+**📖 1 Chronicles 16:34 (NLT)**
+> Give thanks to the LORD, for he is good!
+His faithful love endures forever.
 
 <!-- END: Verse of the Day -->
