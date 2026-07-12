@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Chronicles 16:34 (NLT)**
-> Give thanks to the LORD, for he is good!
-His faithful love endures forever.
+**📖 Ephesians 1:7 (ESV)**
+> In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace
 
 <!-- END: Verse of the Day -->
