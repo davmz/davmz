@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 1:7 (ESV)**
-> In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace
+**📖 Psalms 34:14 (NIV)**
+> Turn from evil and do good;
+seek peace and pursue it.
 
 <!-- END: Verse of the Day -->
