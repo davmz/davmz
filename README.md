@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:14 (NIV)**
-> Turn from evil and do good;
-seek peace and pursue it.
+**📖 Revelation 3:20 (ESV)**
+> Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
 
 <!-- END: Verse of the Day -->
