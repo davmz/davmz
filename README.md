@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Revelation 3:20 (ESV)**
-> Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
+**📖 Colossians 3:12 (ESV)**
+> Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience
 
 <!-- END: Verse of the Day -->
