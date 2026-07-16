@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Colossians 3:12 (ESV)**
-> Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience
+**📖 Ephesians 6:13 (NIV)**
+> Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.
 
 <!-- END: Verse of the Day -->
