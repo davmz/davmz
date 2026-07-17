@@ -188,7 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 6:13 (NIV)**
-> Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.
+**📖 Psalms 59:16 (NIV)**
+> But I will sing of your strength,
+in the morning I will sing of your love;
+for you are my fortress,
+my refuge in times of trouble.
 
 <!-- END: Verse of the Day -->
