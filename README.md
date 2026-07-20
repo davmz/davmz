@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 19:21 (NIV)**
-> Many are the plans in a person’s heart,
-but it is the LORD’s purpose that prevails.
+**📖 Matthew 7:14 (NLT)**
+> But the gateway to life is very narrow and the road is difficult, and only a few ever find it.
 
 <!-- END: Verse of the Day -->
