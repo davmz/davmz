@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 7:14 (NLT)**
-> But the gateway to life is very narrow and the road is difficult, and only a few ever find it.
+**📖 Jeremiah 31:25 (NLT)**
+> For I have given rest to the weary and joy to the sorrowing.”
 
 <!-- END: Verse of the Day -->
