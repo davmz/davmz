@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Jeremiah 31:25 (NLT)**
-> For I have given rest to the weary and joy to the sorrowing.”
+**📖 Matthew 6:25 (ESV)**
+> “Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?
 
 <!-- END: Verse of the Day -->
