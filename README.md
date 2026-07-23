@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Matthew 6:25 (ESV)**
-> “Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?
+**📖 Ephesians 4:32 (ESV)**
+> Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.
 
 <!-- END: Verse of the Day -->
