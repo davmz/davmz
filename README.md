@@ -188,7 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Ephesians 4:32 (ESV)**
-> Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.
+**📖 1 Corinthians 10:13 (NIV)**
+> No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.
 
 <!-- END: Verse of the Day -->
