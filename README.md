@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 1 Corinthians 10:13 (NIV)**
-> No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.
+**📖 Proverbs 17:17 (ESV)**
+> A friend loves at all times,
+and a brother is born for adversity.
 
 <!-- END: Verse of the Day -->
