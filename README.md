@@ -188,8 +188,10 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Proverbs 17:17 (ESV)**
-> A friend loves at all times,
-and a brother is born for adversity.
+**📖 Revelation 4:11 (NLT)**
+> “You are worthy, O Lord our God,
+to receive glory and honor and power.
+For you created all things,
+and they exist because you created what you pleased.”
 
 <!-- END: Verse of the Day -->
