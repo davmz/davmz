@@ -188,10 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Revelation 4:11 (NLT)**
-> “You are worthy, O Lord our God,
-to receive glory and honor and power.
-For you created all things,
-and they exist because you created what you pleased.”
+**📖 James 1:19 (NIV)**
+> My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry
 
 <!-- END: Verse of the Day -->
