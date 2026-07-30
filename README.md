@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Romans 12:1 (NIV)**
-> Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.
+**📖 Proverbs 18:21 (NIV)**
+> The tongue has the power of life and death,
+and those who love it will eat its fruit.
 
 <!-- END: Verse of the Day -->
