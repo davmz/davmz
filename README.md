@@ -188,11 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Isaiah 40:31 (NIV)**
-> but those who hope in the LORD
-will renew their strength.
-They will soar on wings like eagles;
-they will run and not grow weary,
-they will walk and not be faint.
+**📖 Luke 12:15 (NIV)**
+> Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”
 
 <!-- END: Verse of the Day -->
