@@ -188,7 +188,8 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Luke 12:15 (NIV)**
-> Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”
+**📖 Psalms 34:19 (NIV)**
+> The righteous person may have many troubles,
+but the LORD delivers him from them all
 
 <!-- END: Verse of the Day -->
