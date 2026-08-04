@@ -188,8 +188,7 @@ Currently refocusing on **side projects, continuous learning, and growth**—bre
 
 # 📖 Verse of the Day
 <!-- START: Verse of the Day -->
-**📖 Psalms 34:19 (NIV)**
-> The righteous person may have many troubles,
-but the LORD delivers him from them all
+**📖 James 3:13 (NIV)**
+> Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom.
 
 <!-- END: Verse of the Day -->
